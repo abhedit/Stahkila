@@ -1,0 +1,1623 @@
+@media only screen and (max-width: 1921px){
+	.single-projects .clsgloblogo img{padding-bottom:0px;}
+	.clsgloblogo img{
+		padding-bottom: 12px;
+		width: 140px !important;
+	}
+	.clsclientlogos .clientslider{
+		height: 120px;
+	}
+	    .clsmegamenus .clsmenuwrap {
+        padding: 76px 76px 0px;
+        height: calc(100% - 144px);
+    }
+	.clsprojebox{
+		padding: 0 20px;
+	}
+	 .bread p{
+		font-size: 20px;
+		line-height: 100%;
+		margin-bottom: 12px;
+	}
+	.author-date p{font-size: 16px;}
+}
+@media only screen and (max-width: 1799px){
+	/* .container{max-width: 1200px;} */
+	.clsideastabs .clsmptabs .nav-item .nav-link{padding: 0 35px 6px;}
+	.clsideastabs .clsmrcontents .clstexts{margin-left: 42px;}
+	.clstabimg img{width: 100%;height: 100%; object-fit: cover;}
+	.clshovertabs .nav-link span{font-size: 28px;}
+	.clshovertabs .nav-link{padding: 30px 20px;}
+	.clshsect1 .clstexts1 h2{font-size: 40px; line-height: 68px;}
+	.clshsect1 .clstexts1 p{font-size: 24px;}
+	.clsoulprobox .clsoulproinner .info h4{font-size: 32px;display: -webkit-box !important;
+  -webkit-line-clamp: 2 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;height: 5.2ch;}
+	footer .fbox1{width: 360px;}
+	footer .fbox2{width: 424px;}
+	footer .fbox3{width: 262px;}
+	/* .clsmegamenus .clsmenuwrap {padding: 36px 36px;} */
+	/* #clsmenuleftimg{height: -webkit-fill-available;} */
+	.ctextinfo h4{font-size: 24px; line-height: 32px;}
+	.ctextinfo p{font-size: 16px;}
+	.clsofficelocation .clsconno{font-size: 12px;}
+}
+@media only screen and (max-width: 1650px){
+	.clsprojdetails2 .clsprojtexts .ctextinfo p{padding-bottom: 8px;}
+	.cls_project_temp{border-radius: 20px 20px 0px 0px;}
+	.clsideastabs .clsmptabs .nav-item .nav-link{font-size: 24px;}
+	.cls_about_card p{font-size: 18px; line-height: 28px;}
+	.clshsect1 .clstexts1 h2 sup{top:-0.9em;font-size: 16px;}
+	.clshsect1 .clstexts1 p{font-size: 23px;}
+	.clshsect1 .clstexts1 p sup{font-size:16px;}
+	.clsprojectslider .clsprojdetails{height: 500px;}
+	.clsblogtext1{padding-left: 20px;padding-right: 20px;}
+	.single-projects .clsgloblogo{height: 79px;}
+	.clsprojdetails2 .clsprojtexts{width: 580px;}
+	.clsnewscol .ctags {font-size: 12px;}
+	.clsofficelocation .clsofloccol{padding: 22px 20px 31px 20px;}
+	#clsmainmenu .clssubmenu {height: -webkit-fill-available;}
+	.clsprojdetails2 .clsprojimgcol{width: 550px;}
+	/* .clsprojdetails2 .clsprojtexts{width: 100%;} */
+	.clssoulcol .csoulicon{width: 125px;height: 125px;}
+	.clsoulprobox .clsoulproinner .info h4{font-size: 20px;line-height: 26px;padding-right: 30px;}
+	.page-home .clientslider, .page-careers .clientslider{margin-top: 35px;margin-bottom: 35px;}
+	.clsnewscol .carrowbtn{width: 30px;height: 30px;}
+	.clsclientlogos {margin: 20px 0px 15px;padding: 0 20px;}
+	.clssearchbar{padding: 0 20px;}
+	.cbtn{font-size: 16px;height: 50px;line-height: 50px;}
+	footer .container {padding: 0 30px 0 20px !important;}
+	.clshovertabs .nav-link span{font-size: 28px;}
+	.container{max-width: 1200px;}
+	.carrowbtn span{background-size: 6px;}
+	/* .clsprojdetails2{flex-direction: column;} */
+	.clsprojdetails2.cls_template_2{flex-direction: row;}
+	.cls_project_temp{margin-top: -60px;}
+	.clsprojebox .cprojectinner .clsinfo h4, .clsprojebox .cprojectinner .clsinfo h3{font-size: 16px;}
+	.clsmaintopsect .clssllogo{width: 100px; height: 100px;}
+	.clsmaintopsect .clssllogo img{width: 100%; height: 100%; object-fit: cover;}
+	.clsformgroup .clsfiledrow label{font-size: 16px;}
+	.single-projects .clsprojectssect{padding-top: 35px;padding-bottom: 35px;}
+	.clsstmember .playbtn{width: 30px; height: 30px;background-size: cover;}
+	.thank-you-container{height: 580px;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 55px;line-height: 66px;}
+	.page-careers .clshoveritem{margin-top: 20px;}
+	.ctextinfo h4{
+		font-size: 22px;
+		line-height: 26px;
+	}
+	.carrowbtn{width: 30px;height: 30px;}
+	.page-awards .clsfeatprojects .mediasec1{
+		padding-top: 96px !important;
+	}
+	.page-news .clssearchbar .clssearchcol .custfield{margin-bottom: 0px;}
+	.clsmegamenus .clsmenuwrap {
+		padding: 56px 56px 56px 56px;
+		flex-wrap: wrap;
+		height: calc(100% - 68px);
+	}
+	.page-careers .ctitle2{font-size: 30px;}
+	.clsglossarydetails .clsglossinfo .ctextinfo h4 {
+        font-size: 18px;
+        margin: 0px;
+    }
+	.clsourpeopsec{padding: 35px 0px;}
+	.page-leadership .clsourpeopsec{padding: 70px 0px 35px;}
+	.clshsect1 .clstexts1 h2{font-size: 30px;line-height: 60px;}
+	.clsofficelocation .clscontinfo{margin-top: 16px;}
+	.clshovertabs .nav-link{padding: 30px 20px 30px;}
+	.clshsect1 .clstexts1 h2 sup{font-size: 22px;top: -0.9em;}
+	.ctitle3{font-size: 54px; line-height: 70px;}
+	.clsideastabs .clsmptabs{gap: 32px;}
+	.clsideastabs .clsmptabs .nav-item .nav-link{padding: 0 50px 6px;}
+	.clsideastabs .clsmrcontents .clstexts{margin-left: 42px;}
+	footer .footerboxs{padding-right: 0px;}
+	.clsprojgallery .clsgitem .clsgimg img{height: 600px;}
+	.clswhycol .clswhyinner .ctextinfo h5{font-size: 18px;line-height: 26px;}
+	.aboutsec1 .extraorinner h4{padding: 18px 0px 10px;font-size: 46px; line-height: 56px;}
+	.aboutsec1 .extraorinner p{font-size: 20px;line-height: 26px;}
+	.aboutsec1 .textinfo2 p{font-size: 24px;}
+	.clsmilstonbox .clsmsimg img{
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	.clsoulprobox .clsoulproinner .info span{font-size: 18px;padding: 0px 0px 18px;}
+	.clsoulprobox{margin-top: 30px;}
+	.clshsect5 .ctitle2{padding-top: 30px;}
+	.clscountlists li .clscount1, .count_span{font-size: 46px;}
+	.clshsect4 .textinfo h2{font-size: 40px;}
+	.clshsect4 .textinfo p{font-size: 28px;padding-top: 20px;}
+	.clsglobalsay .clssaytexts{width: 470px;padding: 30px;}
+	.clsglobalsay .clsimgcol{width: 730px;}
+	.clsglobalsay .clssaytexts .clstexts p{font-size: 16px;}
+	/* .clsglobalsay .clsslickarrows .slicknext{margin-right: 116px;} */
+	.clsglobalsay .clsimgcol{height: auto;}
+	.clsslickarrows .slickprev:hover, .clsslicknav .slick-prev:hover{background-position: 47% 50%;}
+	.clshsect4{height: 300px;}
+	.showtexts .ctextinfo p{font-size: 12px; line-height: 22px;}
+	footer .footerboxs h4{font-size: 24px;margin-bottom: 18px;}
+	footer .fbox1 p{margin: 34px 0px 34px;font-size: 13px;line-height: 18px;}
+	footer .footerboxs li a{font-size: 13px;}
+	footer .clsfollow h4{margin-top: 36px;}
+	footer .fbox3 p{padding-top: 5px; font-size: 12px;}
+	footer .awardslogo img{max-width: 20%;}
+	.ctextinfo p{font-size: 16px; line-height: 26px;}
+	.clsfaqs .faqheading {padding: 25px 0px;}
+	.clsfaqs .faqheading h3{font-size: 28px;}
+	.clsfaqs{padding: 20px 0px 48px;}
+	.page-home .clsfaqs{padding: 0px 0px 35px;}
+	.clsfaqs .faqheading{padding: 20px;}
+	.clsnewscol{margin-bottom: 8px;}
+	.clsmilestonetabs .nav-tabs{margin-bottom: 25px;}
+	.clsmilstonbox .ctextinfo p{padding-top: 5px;}
+	.clsofficelocation .ctextinfo .clsaddres{
+		padding-right: 50px;
+	}
+	.clsprojebox {
+		margin-top: 18px;
+		padding: 0 20px;
+	}
+	.blogsect1 .clsblogtext1 .textinfo1 .ctextinfo p{padding-bottom: 90px;}
+	.clsclientlogos .clientslider .clsslide {height: 100%; width: 100px;}
+	.clsprojebox .clshoverprojinfo .hovertexts h4, .clsprojebox .clshoverprojinfo .hovertexts h3{font-size: 16px;margin-bottom: 10px;}
+	.clsprojebox .clshoverprojinfo .hovertexts p{font-size: 14px;}
+	.clsprojebox .clshoverprojinfo .hovertexts ul li{font-size: 14px;}
+	.clscountlists li p{position: relative;font-size: 18px;margin-top: 0px;}
+	.clscountlists li h4{font-size: 58px;min-height: 90px;}
+	#clsmainmenu .clsmenuitem{font-size: 16px;}
+	.clscountlists li .clsltext {font-size: 14px;min-width: initial;}
+	.clsprojtitle .clsprojectname h4, .clsprojtitle .clsprojectname h1{font-size: 24px;}
+	.clsprojtitle .clsprojtext1 p{font-size: 16px;}
+	.clsprojinfo ul li{font-size: 16px;}
+	.clsprojtitle {padding: 28px 0px;}
+	.cls_project_temp .ctitle2{font-size: 28px;}
+	.clsprojdetails1 .clsheading p{font-size: 24px;}
+	.clsprocol1 .clsproinner h4{font-size: 26px;}
+	.clscontform .ctitle2{font-size: 24px;margin-bottom: 26px;}
+	.clsformgroup .clsfiledrow{margin-bottom: 20px;}
+	.clscontform{padding: 20px 40px 30px;}
+	.clscontinfocol .clscontinforow{margin-top: 67px;}
+	.clscontinfocol .clscontinforow h4{font-size: 24px;line-height: 26px;margin-bottom: 15px;}
+	.clscontinfocol .clscontinforow p{font-size: 18px;line-height: 20px;}
+	.clscontactconts.clsouroffices_section{padding: 30px 0px 0px;}
+	.clsofficelocation .clsconno{font-size: 12px;}
+	.clsourpeopsec .ctitle32{padding: 0px 0px 25px; font-size: 32px;}
+	.page-leadership .clsourpeopsec .ctitle32{padding-bottom: 0px;}
+	.ctitle32 {font-size: 26px;}
+	.ourpeopsec1 .clsourpeopsec .clsstmember{margin: 0px;}
+	.ourpeoplesec{padding: 30px 0px 20px;}
+	.clsclientlogos .clientslider{height: 80px;}
+	.clsfeatprojects{padding-top: 96px;}
+	.page-news .clsfeatprojects, .page-awards .clsfeatprojects, .page-blogs .clsfeatprojects{padding-top: 100px;}
+	.clsglobalsect .clsglobrow {margin: 26px 0;}
+	.page-awards .clsglobalsect .clsglobrow{margin: 26px 0px 12px;}
+	.page-news .clsglobalsect .clsglobrow, .page-media .clsglobalsect .clsglobrow{margin: 26px 0px 22px;}
+	.clsblogtext1 .ctextinfo h4{line-height: 30px;}
+	.clsmpexpertise.clstexttabs .ctextinfo p{font-size: 19px;line-height: 30px;}
+	/* .clsmpexpertise.clstexttabs .clshovertabs .nav-link{padding-top:28px ;} */
+	.whymrpdimensions .ctitle3{font-size: 36px;}
+	.whymrpdimensions .clsheading p{font-size: 18px;line-height: 28px;}
+	.clswhycol{margin-top: 48px;}
+	.clsprojectsdimen .clsheading{margin-bottom: 30px;}
+	.clienttestimonials .clsheading{padding-left: 50px;}
+	.clienttestimonials .clsheading .clstitle{font-size: 42px;line-height: 54px;}
+	.clsprojebox .cprojectinner .imgbox img{width: 100%; position: relative; aspect-ratio: 1/1;}
+	.careersec2 .clshovertabs .nav-link{height: 108px;}
+	.careersec2 .clshovertabs .nav-link:last-child{height: 108px;}
+	.careersec2 .clshovertabs .nav-link span{font-size: 22px;}
+	.careersec2 .clshovertabs .nav-pills{width: 690px;}
+	.clshovertabs .tab-content{width: 450px;}
+	/* .clsmpexpertise{padding-bottom: 23px;} */
+	.clsbenefits .clsbefitem .imgbox{width: 530px;}
+	.clsbenefits .clsbefitem .clstextinfo{width: 600px;}
+	.clsbenefits .clsbefitem .infolist .icons{width: 150px;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo p {font-size: 16px;line-height: 22px;padding-right: 0px;padding-top: 15px;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo h5 {font-size: 20px;}
+	/* .clsbenefits .slick-slide img{width: 50%;} */
+	.clsopenpositions{margin-bottom: 28px;padding-top: 35px;padding-bottom: 35px;}
+	.clsletrlinks ul li a{font-size: 20px;}
+	.clsnewscol .clsnewinfo .clsdate{font-size: 12px;padding-top: 18px;}
+	#clsmainmenu .clsmenubottom {bottom: 0px;}
+	#clsmainmenu .clsmenubottom .clsbtmenus li a{font-size: 14px;}
+	#clsmainmenu .clssubmenu a {font-size: 14px}
+	.clsclientlogos .clientslider {-webkit-border-radius: 10px;}
+	.clsnewslists .clsnewscol{margin: 20px 0px;}
+	.clsstoriespeople {margin-top: 27px;}
+	.page-careers .clshoveritem .ctextinfo{margin-bottom: 10px;}
+	.clsstoriespeople .clsheading{margin-bottom: 27px;}
+	.clstexttabs .clshovertabs .nav-pills{width: 650px;}
+	.clsnewslistslider_desk {padding: 0 !important;}
+	/* .page-dimensions .clstexttabs .clshovertabs .nav-link{padding-bottom: 28px;} */
+	.page-dimensions .clstexttabs .ctextinfo h4{font-size: 20px;}
+	.page-dimensions .clsmpexpertise.clstexttabs .ctextinfo p{font-size: 16px;line-height: 20px;}
+	.page-dimensions .clsmpexpertise {padding-bottom: 48px;padding-top: 35px;}
+	.page-dimensions .clsmpexpertise .clsheading{margin-bottom: 35px;}
+	.page-dimensions .clsfaqs95{padding-top: 35px;padding-bottom: 35px;}
+	.page-home .clshovertabs .tab-content{width: 399px;}
+	.page-home .clshovertabs .nav-pills{width: 750px;}
+	.page-home .clshovertabs .nav-link{padding: 25px 20px 25px;}
+	.aboutsec1 .textinfo2 h4{font-size: 42px;line-height: 42px;}
+	.clsmrphmonograph .clsmonograph .clstexts h3{font-size: 36px;}
+	.clsmrphmonograph .clsmonograph .clsmorphoimg{width: 450px;}
+	.clsmrphmonograph .clsmonograph .clsmorphoimg img{width: 100%;height: 100%;object-fit: cover;}
+	.clsmrphmonograph .clsmonograph .clstexts{width: 700px;}
+	.clsmrphmonograph .clsmonograph .clstexts p{font-size: 20px;}
+	.page-about-us .clsfaqs{padding-top: 48px;}
+	.clsbenefits.clsslicknav .slick-prev{left: -20px;}
+	.clsbenefits.clsslicknav .slick-next{right: -20px !important;}
+	.clsbacktotop.is-visible{right: 76px;}
+	.ctitle_featured{font-size: 32px;}
+	.clshclientsec1 .clsclientlogo img {max-width: 100%;padding: 10px;}
+	.blogsect1 .clsformrow{margin-bottom: 35px;}
+	.ctitle1 {font-size: 86px; line-height: 90px;}
+	.clsclientsect{padding-bottom: 35px;padding-top: 35px;}
+	.page-dimensions .clientslider:nth-child(2){margin-top: 35px;}
+	#mrptab5 .careersec2 .clshovertabs .clsaccordtexts .ctextinfo p{padding-top: 0px;}
+	.whymrpdimensions{padding: 35px 0px;}
+	.clshoveritem h4{font-size: 24px !important;}
+	.clshoveritem .ctextinfo p{font-size: 18px;}
+
+	/* Header styling 9-1-2026 */
+	#clsmenuleftimg {
+		width: 50%;
+		height: 100% !important;
+		overflow: hidden;
+		border-radius: 10px;
+	}
+	.clstexttabs .clshovertabs .nav-link{padding: 34px 115px 34px 0px;}
+	.clsmrsr-sect1{padding: 35px 0px;}
+	.page-mrsr .clsfeatawards .clsglobalsect{padding-top: 35px;padding-bottom: 12px;}
+	.page-mrsr .clsfeatawards{padding-bottom: 35px;}
+	.clsmrsrsocial a{font-size: 14px;}
+	.clsglobalsect{padding: 35px 0px 0px;}
+	.page-template-servicepage .clsglobalsect{padding: 21px 0px 35px;}
+	/* .page-template-servicepage .clsclientsect{padding-top: 21px;} */
+	/** MR SR Page **/
+	.clsmrsrsocial {margin-top: 15px;}
+	.clsmrsr-sect1 .clstexts .ctitle2{margin-bottom: 3px;}
+	.clsmrsr-sect1 .clstexts .ctextinfo p{padding-top: 10px;}
+	.page-template-servicepage .clsstmphoto{height: 260px;}
+	.single-thought-leadership .cls_single_main img{height: 470px;object-position: center;}
+.blog-content img{width: 100%;height: 440px;object-fit: cover;object-position: center;}
+.clshovercontent .clshoveritem .ctextinfo{margin-bottom: 10 !important;}
+.bread p{
+  font-size: 20px;
+  line-height: 22px;
+}
+.cls_mission_bottom{bottom: 30px;}
+.author-date p{font-size: 16px;}
+.single-projects .clsmaintopsect .clsscrollwrap {bottom: 80px !important;}
+}
+@media only screen and (max-width: 1540px){
+	.cls_project_temp{margin-top: -70px;}
+}
+@media only screen and (max-width: 1499px){
+	.single-projects .ctextinfo p{font-size: 14px;line-height: 24px;}
+	.cls_project_temp{margin-top: -80px;}
+	.single-projects .clsmaintopsect .clsscrollwrap{bottom: 62px !important;}
+	.container {max-width: 1200px;}
+	.clshsect1 .clscountlists {padding: 0 120px;}
+	.clshsect1 .clstexts1 p {padding: 40px 0 0px;}
+	/* .clshovercontent .clshoveritem .ctextinfo{margin-bottom: 12px !important;} */
+	.clshsect1 .clstexts1 p sup{top: -0.5em;}
+	footer .fbox1 {width: 375px;}
+	footer .fbox2 {width: 380px;}
+	.clshoveritem h4{font-size: 24px;}
+	.clshoveritem .ctextinfo p{font-size: 16px;}
+	.page-careers .clshoveritem .ctextinfo{margin-bottom: 13px;}
+	.page-careers .clshoveritem{margin-top: 25px;}
+
+	/* .clsmegamenus .clsmenuwrap {padding: 36px 36px;} */
+	#clsmainmenu .clsmenuitem, #clsmainmenu .clssubmenu a {font-size: 16px;}
+	#clsmainmenu .clssubmenu {padding-left: 60px;}
+	
+
+	/** Project Page **/
+	.clsprojdetails1 .clsheading p {padding: 0 90px;}
+	.clsprojdetails2 {gap: 0 40px;}
+
+	/** Contact Page **/
+	.clscontactconts {padding: 40px 0 0px;}
+	.clscontactconts .clscomcol, .clscontform {width: 540px;}
+
+	/** Careers Page **/
+	.careersec2 .clshovertabs .nav-pills {width: 650px;}
+	.clsbenefits .clsbefitem .clstextinfo {width: 639px;}
+	.clsbenefits .clsbefitem .infolist .icons {width: 160px;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo {width: calc(100% - 160px);}
+	.clsbenefits .clsbefitem .infolist .ctextinfo p {padding-right: 0px;}
+	.clsideastabs .clsmptabs {gap:0 30px;}
+	.clsideastabs .clsmrcontents .clstexts {width: 650px;}
+
+	/** Team Page **/
+	.clsourpeopsec .ctextinfo h4 {font-size: 20px;}
+	.clsourpeopsec .ctextinfo p {font-size: 16px;}
+	.clsourpeopsec .ourpeopsec3 .ctextinfo p {font-size: 16px;}
+
+	.clsmembermodal .modal-dialog {max-width: 1200px;}
+
+	/** Glossary Page **/
+	.clsletrlinks ul {gap: 0 23px;}
+	.clsletrconts .clsletrtextscol {width: 465px;}
+
+	/** 404 Page **/
+	.clserrorpage .clspagefound .clstext1, .clserrorpage .clspagefound .clstext3 {font-size: 24px;}
+	.clserrorpage .clspagefound .clstext2 {margin-top: 37px; margin-bottom: 34px;}
+	.clserrorpage .clspagefound .clstext2 img {max-width: 390px;}
+	.clserrorpage .clspagefound .clstext3 {margin-bottom: 30px;}
+	.clserrorpage .clspagelink li a {font-size: 16px; width: 180px; height: 56px; line-height: 54px;}
+
+	/** Dimensions Page **/
+	.clsmainbanner .clsitem .mtdim-logo img {max-width: 40%;}
+	.clstexttabs .clshovertabs .nav-pills {width: 650px;}
+	.clstexttabs .clshovertabs .nav-link {padding-right: 20px;}
+	.clstexttabs .ctextinfo p {font-size: 22px;}
+	.clswhycol .clswhyinner {padding: 0 15px;}
+	.clienttestimonials .clsheading {padding-left: 80px;}
+
+	/** About Page **/
+	.cls_missiontxt{max-width: 80%;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 44px;line-height: 55px;}
+	.aboutsec1 .extraorinner h4 {font-size: 64px; line-height: 64px; padding-top: 30px;}
+	.aboutsec1 .extraorinner p {font-size: 20px; line-height: 26px; margin-top: 0;}
+	.aboutsec1 .textinfo2 p {font-size: 36px;}
+	.aboutsec1 .textinfo2 h4 {font-size: 50px; line-height: 60px;}
+	/* .clsourvision, .clsourmission {height: 590px;} */
+	.clsmrphmonograph .clsmonograph .clstexts h3 {font-size: 50px;}
+	.clsmrphmonograph .clsmonograph .clstexts p {font-size: 18px;}
+
+	/** MR SR Page **/
+	.clsmrsrsocial {gap:0 40px; margin-top: 15px;}
+	.clshoveritem h4{font-size: 22px !important;}
+	.cls_about_card p{font-size: 16px; line-height: 24px;padding-top: 3px;}
+	
+}
+@media only screen and (max-width: 1399px){
+	.single-projects .clsmaintopsect .clsscrollwrap {bottom: 80px !important;}
+	.clshsect1 .clstexts1 p{font-size: 22px;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 44px;line-height: 55px;}
+	.rotate-text{font-size: 28px;line-height: 32px;}
+	.container {max-width: 1024px;}
+	.carrowbtn span{background-size: 6px;}
+	.ctitle1 {font-size: 76px; line-height: 76px;}
+	.clsmaintopsect .clsitem {height: 785px;}
+	.clshsect1 .clscountlists {padding: 0 40px;}
+	.clshovertabs .nav-link span {font-size: 24px;}
+	.clshovertabs .nav-pills {width: 610px;}
+	.clshovertabs .tab-content {width: 480px;}
+	.clshsect4 .textinfo p {font-size: 34px;}
+	.clsoulprobox .clsoulproinner .info h4 {font-size: 34px; line-height: 48px;padding-right: 30px;}
+	.clsglobalsay .clsimgcol {width: 800px;}
+	/* .clsglobalsay .clssaytexts, .clsglobalsay .clsslickarrows {width: 710px;} */
+	.clsnewslists {margin-left: -20px; margin-right: -20px;}
+	.clsnewscol {padding: 0 20px; margin: 30px 0px;}
+	.clsrow40 .clsnewscol {padding: 0 20px; margin: 30px 0px;}
+	.clsglobrow {margin-right: -10px;margin-left: -10px;}
+	.clsglobalsect .clsitemcol {padding: 0 10px;}
+	footer .footerboxs .fmenu ul {width: 50%;}
+	footer .footerboxs .fmenu ul:nth-child(2) {padding-left: 20px;}
+	footer .fbox1 {width: 280px;}
+	footer .fbox2 {width: 280px;}
+	footer .footerboxs .fmenu{flex-wrap: wrap;}
+	.clientslider{margin-top: 5px;}
+	.clsoulprobox .clsoulproinner .info .carrowbtn{width: 30px;height: 30px;}
+	.clsglobalsect .clsglobrow{margin: 30px 0px;}
+	.page-home .clsglobalsect{padding: 35px 0px 35px;}
+	.clsglobslider .slick-slide img{width: 100px;}
+	.page-about-us .clsglobslider .slick-slide img, .page-news .clsglobslider .slick-slide img {padding-bottom: 20px;}
+	.page-home .clshovertabs .nav-pills{width: 630px;}
+	.page-home .clshovertabs .nav-link{padding: 23px 40px 23px 2px;}
+	.clshovertabs .nav-link .cbtn{padding: 0px 30px;font-size: 16px;line-height: 50px;height: 49px;}
+	.ctitle_featured {font-size: 28px;}
+	.clshsect5 .ctitle2{padding-top: 20px;}
+	footer .fbox3,footer .fbox2{padding-right: 0px;}
+
+
+	.clsoulprobox .clsoulproinner .info h4{
+		font-size: 30px;
+		line-height: 42px;
+	}
+	#clsmainmenu {padding: 0 50px 120px;}
+	#clsmainmenu .clssubmenu {left: 243px; padding-left: 50px;}
+	.clshovertabs .nav-link{padding: 1.49rem 1rem;}
+	.clshsect8 {padding: 30px 0px 20px;}
+	.clshsect8 .ctitle2{margin-bottom: 0px;}
+	.clscountlists li .clscount1, .count_span{font-size: 58px;}
+
+
+	/** Featured Project Page **/
+	.clsrow40 {margin-left: -20px;margin-right: -20px;}
+	.clsprojebox {padding: 0 20px;}
+	.clsprojdetails2{flex-direction: column;}
+	.clsprojdetails2 .clsprojimgcol{display: flex; width: 100%;gap: 30px;flex-direction: row;}
+	.clsprojdetails2 .clsprojtexts{width: 100%;}
+	.clsprojdetails2 .ctextinfo p{font-size: 14px; line-height: 24px;padding-bottom: 20px;}
+	.cls_about_card p{font-size: 16px; line-height: 24px;}
+	.clsclientlogos,.clssearchbar{padding: 0px 20px;}
+	.page-clients .clssearchbar{padding: 0px;}
+	.clsprojebox .cprojectinner .clsinfo h4,.clsprojebox .clshoverprojinfo .hovertexts h4, .clsprojebox .cprojectinner .clsinfo h3, .clsprojebox .clshoverprojinfo .hovertexts h3{font-size: 16px;}
+	.clsprojebox .cprojectinner .clsinfo p, .clsprojebox .cprojectinner .clscity, .clsprojebox .clshoverprojinfo .hovertexts p{font-size: 12px;}
+	.clsprojebox .clshoverprojinfo .hovertexts h4, .clsprojebox .clshoverprojinfo .hovertexts h3{margin-bottom: 6px;}
+	.clsprojebox .clshoverprojinfo .hovertexts ul{margin-top: 10px;padding-top: 10px;}
+	.clsprojebox .clshoverprojinfo .hovertexts ul li{font-size: 12px;}
+	.clsprojebox .clshoverprojinfo .carrowbtn{width: 30px;height: 30px;}
+	.clsfeatprojects .ctitle2{font-size: 28px;}
+	.single-projects .clsglobslider .slick-slide img{width: 140px;}
+	.clsglobalsect {padding: 35px 0px;}
+	.cls_project_temp .ctitle2{font-size: 24px;}
+	.cls_project_temp{margin-top: -70px;}
+	.clsglobalsect .clsglobrow{margin: 35px 0 60px;}
+	.page-awards .clsglobalsect .clsglobrow{margin: 26px 0px;}
+	.clsprojgallery .clsgitem .clsgimg img{aspect-ratio: 16/9;height: 100%;}
+
+	/* Header styling 9-1-2026 */
+	#clsmenuleftimg {
+		width: 50%;
+		height: 540px !important; 
+		overflow: hidden;
+	}
+	#clsmenuleftimg img {
+		width: 100%;
+		height: -webkit-fill-available;
+		object-fit: cover;
+		transition: 0.3s ease;
+		border-radius: 10px;
+	}
+	#clsmainmenu {
+		padding: 0px 50px 70px;
+	}
+
+	/** Clients Page **/
+	.clshclientsec1 .ctitle2 {margin-bottom: 41px;}
+	#clientResults{margin-top: 10px;}
+	.page-clients .clshclientsec1 .ctitle2 {margin-bottom: 10px;}
+	.clshclientsec1 .clsclientrow {margin-left: -9px; margin-right: -9px;}
+	.clshclientsec1 .clsclientbox {padding: 0 9px; margin: 9px 0px;}
+	.clshclientsec1 .clsclientlogo {padding: 10px;}
+	.clshclientsec1 .clsclientlogo img {max-width: 100%;padding: 3px;}
+
+	/** Project Page **/
+	.clsprojdetails1 .clsheading p {padding: 0px;}
+	.clsprojtitle .clsprojectname h4, .clsprocol1 .clsproinner h4, .clsprojtitle .clsprojectname h1{font-size: 22px;}
+
+	/** Contact Page **/
+	.clscontactconts .clscomcol, .clscontform {width: 520px;}
+	.clsmapinfocol {margin-bottom: 60px;}
+	.clsouroffices_section .clsouroffices .clsheading {margin: 0;}
+	.clscontactconts .ctitle2{margin: 30px;}
+	.clscontactconts{padding: 0 !important;}
+	.clscontactconts .clscontsect1{margin: 0;}
+
+	/** Careers Page **/
+	.careersec2 .clshovertabs .nav-pills {width: 580px;}
+	.careersec2 .clshovertabs .nav-link span {font-size: 26px;}
+	/* .careersec2 .clshovertabs .clsaccordtexts .ctextinfo p {padding-top: 10px;} */
+	.clsbenefits .clsbefitem .imgbox, .clsbenefits .clsbefitem .clstextinfo {width: 48%;}
+	.clsbenefits .clsbefitem .infolist .icons {width: 140px;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo {width: calc(100% - 140px);}
+	.clsideastabs .clsmptabs .nav-item .nav-link {padding: 0 30px 6px;}
+	.clsideastabs .clsmrcontents .clsimgcol, .clsideastabs .clsmrcontents .clstexts {width: 48%;}
+	.clsouroffices .clsofficelocation .clsaddres {width: 272px;}
+	.clsouroffices .clsofficelocation .clscontinfo p br {display: none;}
+
+	/** Team Page **/
+	.clsmembermodal .modal-dialog {max-width: 1140px;}
+
+	/** Glossary Page **/
+	.clsletrlinks ul {gap: 0 20px;}
+	.clsletrconts .clsletrlabel {width: 230px;}
+	.clsletrconts .clsletrtexts {width: calc(100% - 230px);}
+	.clsletrconts .clsletrtextscol {width: 420px;}
+	.clsglossarydetails .clsimgnote p i {font-size: 16px;}
+
+	/* Media page */
+	.clsgloblogo{height: 100px;}
+	.page-awards .clsglobslider .slick-slide img, .page-media .clsglobslider .slick-slide img {width: 90px;}
+
+	/* Blogs page */
+	.clsmedialists {padding: 0px 20px 22px;}
+
+	/** Dimensions Page **/
+	.clstexttabs .clshovertabs .nav-pills {width: 580px;}
+	.clshovertabs .tab-content .clstabimg img {width: 100%;}
+	.clstexttabs .ctextinfo p {font-size: 18px;line-height: 26px;}
+	.clstexttabs .clshovertabs .nav-link {padding: 25px 20px 25px 0px;}
+	.whymrpdimensions .clsheading p {font-size: 20px;}
+	.clswhycol .clswhyinner .ctextinfo h5 {font-size: 22px; line-height: 30px;}
+	.clienttestimonials .clsheading {padding-left: 0;}
+
+	/** About Page **/
+	.aboutsec1 .cextraorbox .extraorinner {padding: 15px 30px 30px;}
+	.clsmapvideopart {height: 620px;}
+	.clscontinfocol .clscontinforow{margin-top: 78px;}
+
+	/** MR SR Page **/
+	.clsmrsrbanner .clsbtns {bottom: 60px;}
+	.clsmrsrsocial {gap:0 20px;}
+	.clsmrsrsocial a{font-size: 16px;}
+	.cls_inner_soul_logo{width: auto;}
+
+}
+@media only screen and (max-width: 1199px){
+	.page-home .clshovertabs .nav-pills{width: 740px;}
+	.page-careers .clshoveritem{margin-top: 10px;}
+	.clshovercontent .clshoveritem .ctextinfo{margin-bottom: 5px !important;}
+	.clshoveritem .ctextinfo p{font-size: 16px;}
+	.clshoveritem h4{font-size: 20px !important;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 42px;line-height: 52px;}
+	.rotate-text{font-size: 24px;line-height: 28px;}
+	.clsoulprobox .clsoulproinner .info h4{font-size: 18px;line-height: 22px;}
+	.clsofficelocation .ctextinfo .clsaddres{
+		padding-right: 0px;
+	}
+	.clsprojtitle .clsprojectname h4, .clsprocol1 .clsproinner h4, .clsprojtitle .clsprojectname h1{font-size: 20px;}
+	.clsmenuleftimg{display: none;}
+	.container {max-width: 960px;}
+	.clscontactconts .container {max-width: 960px;}
+	.clsmpexpertise .container, .clsfeatprojects .container, footer .container {max-width: 960px;}
+	.clshclientsec1 .container {max-width: 960px;padding: 0px;}
+	.cbtn {font-size: 16px; height: 44px; line-height: 44px;}
+	#mobilemenu {background: url("/sites/morphogenesis/archive/media/37e489c8e71d-menu-burger.svg") no-repeat 50% 50%; background-size: contain; cursor: pointer; width: 20px; height: 15px; cursor: pointer;}
+	.custnav {display: none !important;}
+	.ctextinfo h4 {font-size: 20px; line-height: 36px;}
+	.ctextinfo p {font-size: 14px; line-height: 16px;}
+	.page-mrsr .ctextinfo p{line-height: 20px;}
+	.page-blogs .ctextinfo p {font-size: 14px; line-height: 22px;}
+	.page-blogs .clsnewscol .mediaimgbox{height: 153px;}
+	.careersec2 .clshovertabs .clsaccord {padding-bottom: 0px;}
+	.careersec4{padding: 35px 0px;}
+	.clsfaqs{padding-bottom: 35px;}
+	.single-projects .clsprojectssect{padding-top: 25px;padding-bottom: 35px;}
+	.clsideastabs{padding: 35px 0px;}
+	.clstabcol{margin-top: 35px;}
+	.clsstmember{margin-top: 0px;}
+	.clsopenpositions{padding-top: 35px;}
+	.page-dimensions .clsmpexpertise{padding-bottom: 35px;}
+	.clsouroffices .clsheading{margin-bottom: 35px;}
+	.clsofficelocation .clsofloccol{padding: 10px 20px 10px 20px;}
+	.clsofficelocation .clscontinfo{margin-top: 12px;}
+	.clsbenefits .clsbefitem .infolist .icons{width: 104px;}
+	.clsbenefits .clsbefitem .infolist{justify-content: space-between;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo h5{font-size: 20px;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo p{font-size: 14px; line-height: 20px; padding-top: 5px;}
+	.clsscrollslider .ctitle2{padding-bottom: 35px;}
+	.clsbenefits .clsbefitem .clstextinfo{padding-left: 0px;}
+	.clsbenefits .clsbefitem .infolist{padding: 25px 0px;}
+	.clsmaintopsect .clsitem {height: 710px;}
+	.page-mrsr .clsmaintopsect .clsitem {height: auto !important;}
+	.clssoulcol .csoulicon {width: 100px; height: 100px;}
+	.clssoulcol h4 {padding: 20px 0 16px;}
+	.clscountlists li .clscount1, .count_span {font-size: 48px;}
+	.clscountlists li h4{height: 88px;}
+	.clsclientsect{padding: 35px 0px 10px 0;}
+	.clientslider:nth-child(2){margin-top: 24px;}
+	.clscountlists li p {font-size: 18px; margin-top: 0px;}
+	.clscountlists li .clsltext {font-size: 16px;}
+	.clshsect1 .clstexts1 {margin: 25px 0 0;}
+	.clshsect1 .clstexts1 h2 {font-size: 42px; line-height: 56px;}
+	.clshsect1 .clstexts1 h2 sup {font-size: 24px;}
+	.clshsect1 .clstexts1 p {font-size: 22px; padding: 25px 60px 0px 60px;}
+	.clshsect1 .clstexts1 p sup {font-size: 16px;}
+	.clshovertabs .nav-link .cbtn {padding: 0 20px;}
+	.page-home .clshovertabs .nav-link {padding: 15px 15px;}
+	.page-careers .clsinnerbanner .clsitem .cbtn {margin-top: 30px !important;}
+	.clshovertabs .tab-content {width: 410px;}
+	.clsnewscol .clsnewinfo p {max-width: 70%;}
+	.clshovertabs .nav-link span{font-size: 26px;}
+	.clshovertabs .nav-link{padding: 19px 20px;}
+	footer .fbox1 {width: 285px;}
+	footer .flogo img {width: 270px;}
+	footer .fbox2 {width: 297px;}
+	footer .fbox3 {width: 250px;}
+	footer .footerboxs .fmenu{flex-wrap: wrap;}
+	.awardslogo{flex-wrap: wrap; justify-content: space-between;}
+	.clsmegamenus .clsmenuwrap{height: calc(100% - 0px);}
+	.thank-you-container{max-width: 445px;height: 514px;}
+	.thank-you-message p{font-size: 18px;}
+	.awardslogo img{
+		margin-bottom: 20px;
+	}
+	.cls_inner_soul_logo{width: auto;}
+	.clsglobalsect .clsglobrow{margin: 35px 0px 0px;}
+	.clscontactconts .ctitle2 h3{margin-bottom: 20px;}
+	.clscontform {padding: 15px 40px 30px;}
+	.clscontactconts .ctitle2{margin: 10px 10px 25px;}
+	.clscontactconts .cls_connect{margin: 35px 10px 25px;}
+	.clsformgroup .custfield{font-size: 15px;}
+	.clsformgroup .clsbtnrow .submiybtn{padding: 0px 58px;margin-top:0px;}
+	.submiybtn{height: 48px;line-height: 48px;}
+	.clsmegamenus .clstopmegamenu, #clsmenuleftimg {display: none !important;}
+	.clsmegamenus {top: 79px;}
+	#clsmainmenu {padding: 0; width: 100%;}
+	#clsmainmenu .activemenu .clssubmenu {display: flex;}
+	#clsmainmenu .activemenu .clsplusbtn {display: none;}
+	#clsmainmenu .activemenu.clsmenuitem {color: var(--color-white);}
+	.page-dimensions .clientslider .cls-slide-track{width: calc(170px * 16);}
+	.page-dimensions .cls_dimensions .cls-slide-track{    -webkit-animation: scroll 120s linear infinite;
+    animation: scroll 45s linear infinite;}
+	.page-dimensions .clientslider:nth-child(2){margin-top: 15px;}
+	.page-careers .clientslider .cls-slide-track, .page-home .clientslider .cls-slide-track, .page-template-servicepage .clientslider .cls-slide-track{width: calc(301px * 16);}
+	.clientslider .cls-slide-track{
+		width: 100%;
+	}
+	.page-about-us .ctitle2{font-size: 26px;}
+	.page-dimensions .clientslider .clsslide {width: 150px;}
+
+	.page-featured-project .clientslider .cls-slide-track{width: calc(450px * 40);}
+	.clientslider .clsslide, .clientslider .cls-slide-track2 .clsslide{
+		width: 150px;
+	}
+	.clshsect5 .ctitle2{font-size: 26px;}
+	.clientslider{
+		margin-top: 12px;
+	}
+	.clshsect5{padding-bottom: 50px;}
+	/** Featured Project Page **/
+	.clsprojebox {margin-bottom: 0px;}
+	.clsfeatprojects .clsprojectlists .clsheading .ctitle32 {margin-top: 50px;}
+	.clsprojectlists .btnbox {margin-top: 70px;}
+
+	.clsprojdetails2 .clsprojimgcol{display: flex; width: 100%;gap: 30px;flex-direction: row;}
+	/** Project Page **/
+	.clsprojdetails1 .clsheading p {font-size: 20px;max-width: 85%; margin: 10px auto 20px;}
+	.clsprojectssect {padding-bottom: 35px;}
+	.clsprojtitle .clsprojectname h4, .clsprojtitle .clsprojectname h1{font-size: 24px;line-height: 24px;}
+	.clsprocol1 .clsproinner{padding: 55px 5px 12px;}
+	.clsprojinfo ul li{font-size: 18px;}
+	.single-projects .clsmaintopsect .clsitem img{object-position: top;}
+	.cls_project_temp{margin-top: -120px;}
+	/** Contact Page **/
+	.clscontactconts .clscomcol, .clscontform {width: 470px;}
+	.clscontform .clsheading p {font-size: 16px;}
+	.clscontinfocol .clscontinforow h4 {font-size: 20px; margin-bottom: 12px;}
+	.clscontinfocol .clscontinforow p {font-size: 18px; margin-top: 8px;}
+	.clscontactconts .clscontsect1 {margin-bottom: 60px;}
+	.clsofficelocation .clsconno {font-size: 18px;}
+	.clscontinfocol .clscontinforow{margin-top: 55px;}
+
+	/** Careers Page **/
+	.careersec2 .clshovertabs .nav-pills {width: 500px;}
+	.careersec2 .clshovertabs .nav-link {height: 96px;}
+	.careersec2 .clshovertabs .clsaccord {margin-bottom: 0px;}
+	.careersec2 .clshovertabs .nav-link span {font-size: 20px;}
+	.clsopenpositions .clsheading{margin-bottom: 35px;}
+	/* .careersec2 .clshovertabs .clsaccordtexts {margin-top: -60px;} */
+	.clsideastabs .clsmptabs .nav-item .nav-link {font-size: 22px; padding: 0 30px 6px;}
+	.clsideastabs .clsmrcontents .clstexts h4 {margin-bottom: 0;}
+	.clsideastabs .clsmrcontents .clstexts p {font-size: 18px; line-height: 26px;}
+	.clsouroffices .clsofficelocation .clsaddres {width: 220px;}
+	.clsposcol .clsposinner .clsposinfo a {font-size: 20px;}
+	.clsstoriespeople{margin-top: 35px;}
+
+	.cls-modal-close {width: 32px; height: 32px; background-size: 10px auto; right: -16px; top: -16px;}
+
+	/** Team Page **/
+	.clsmembermodal .modal-dialog {max-width: 960px;}
+	.clsmembermodal .clsmemberdetails .clsmphoto {width: 390px; height: 520px;}
+	.clsmembermodal .clsmemberdetails .clsminfo {width: calc(100% - 390px);}
+	.clsmembermodal .clsmemberdetails .clsminfo .clsmnametop .clsmemlink {font-size: 16px;}
+	.clsmembermodal .clsmemberdetails .clsminfo .clsmnametop ul {padding: 5px 0px 7px;}
+	.clsmembermodal .clsmemberdetails .clsminfo .clsmnametop ul li p, .clsmembermodal .clsmemberdetails .clsminfo .clsmdetails ul li p {line-height: 12px;}
+
+	/** Glossary Page **/
+	.clsletrlinks ul {flex-wrap: wrap; gap:10px 18px;}
+	.clsletrlinks ul li a {font-size: 26px;}
+	.clsletrconts .clsletrlabel {width: 160px;}
+	.clsletrconts .clsletrtexts {width: calc(100% - 160px);}
+	.clsletrconts .clsletrtextscol {width: 360px;}
+	.clsletrconts .clsletrtextscol .ctextinfo a {font-size: 20px;}
+	.clsletrconts .clsletrtextscol .ctextinfo p {margin-top: 0px;}
+	.clsletrconts .clsletrlabel span {font-size: 70px; line-height: 80px;}
+
+	.cpoints li:before {top: 10px;}
+	.clsglossarydetails .clsimgnote p i {font-size: 18px;}
+
+	/** Privacy Page **/
+	.clsprivacytexts .ctextinfo h4 {font-size: 20px;}
+	.clsprivacytexts .ctextinfo h5 {font-size: 16px;}
+
+	/** Blogs Page **/
+	.blogsect1 .clsblogtext1 .textinfo1 .ctextinfo h4 {line-height: 34px;}
+	.blogsect1 .clsblogtext1 .textinfo1 .ctextinfo p {padding: 35px 0px;}
+	.blogsect1 .clsblogtext1 .textinfo1 {padding-right: 50px;}
+	.clsblogcol .clsnewinfo span {font-size: 14px;}
+
+	/** Dimensions Page **/
+	.clstexttabs .clshovertabs .nav-pills {width: 500px;}
+	.clstexttabs .clshovertabs .nav-link {padding: 30px 0 30px 0px;}
+	.clstexttabs .ctextinfo p {padding-top: 0px;}
+	.clienttestimonialslider .clsclientsay .clsclienttexts p {font-size: 18px;}
+	.clienttestimonials .clstestimonialscol {max-width: 460px;}
+	.clsglobalsect .clsglobrow {margin: 25px 0px 25px;}
+	.page-news .clsglobalsect .clsglobrow{margin: 10px 0px 10px;}
+	.page-home .clsgloblogo img{width: 120px;} 
+	.clsmedialists{padding: 0px 0px 20px;}
+	.clsnewscol{margin: 11px 0px;}
+	.clsmpexpertise{padding: 35px 0px;}
+	.clsmpexpertise .clsheading{margin-bottom: 35px;}
+	.blogsect1 .clsformrow{margin-top: 12px;margin-bottom: 12px;}
+	.page-news .clsnewscol{margin: 20px 0px;}
+	.clswhycol .clswhyinner .ctextinfo h5 {font-size: 18px;line-height: 22px;margin-top: 25px;}
+
+	.page-awards .clsglobalsect .clsglobrow {margin: 12px 0px;}
+
+	/** About Page **/
+	.aboutsec1 .extraorinner h4 {font-size: 36px;padding-top: 5px;}
+	.aboutsec1 .extraorinner h4 .clscount1 {line-height: 38px;}
+	.aboutsec1 .extraorinner h4{line-height: 38px;}
+	.aboutsec1 .extraorinner p {font-size: 18px;line-height: 22px;}
+	.aboutsec1 .textinfo2 p{padding: 0px 0px 35px;}
+	.aboutsec1 .textinfo2 h4{font-size: 36px;line-height: 42px;}
+	.aboutsec1 .textinfo2 p{font-size: 26px;}
+	.clsmapvideopart {height: 510px;}
+	.clsmilestonetabs .nav-tabs {justify-content: center;}
+	.clsmilstonbox .ctextinfo h4 {line-height: 30px;}
+	.clsmrphmonograph .clsmonograph .clstexts h3 {font-size: 46px;}
+	.clsmrphmonograph .clsmonograph .clstexts p {font-size: 16px;}
+	/*.clsmilestonetabs .nav-tabs .nav-link {padding: 12px 12px;}*/
+	.clsmilestonetabs{margin-top: 25px;}
+	.clsourpeopsec .ctitle32{padding-bottom: 10px;}
+	.clsourpeopsec{padding-bottom: 0px;}
+	#clsmainmenu .clssubmenu{height: 100%;}
+
+	/** MR SR Page **/
+	.clsmrsrsocial a {font-size: 14px; line-height: 32px; background-size: 32px auto; padding-left: 42px;}
+	.clsglossarydetails .clsglossinfo .ctextinfo p{font-size: 16px;line-height: 28px;}
+	.single-post-page .clsglossinfo{padding: 0px 20px;}
+	.clsmrsrsocial{justify-content: space-evenly;}
+}
+@media only screen and (max-width: 1025px){
+	.clshoveritem h4{font-size: 20px !important;}
+	.clshoveritem .ctextinfo p{font-size: 16px;}
+	.cls_project_temp {margin-top: 0px;}
+	.single-projects .cls_project_temp .clsprojtitle{border-radius: 0px;}
+	.clsvideosection iframe, .clsvideosection video{height: 100%;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 40px;}
+}
+@media only screen and (max-width: 991px){
+	.page-careers .clshoverimage{margin-top: 6px;}
+	.page-careers .clshoveritem{margin-bottom: 24px;}
+	.cls_about_card{padding-top: 30px;}
+	.cls_about_card p{font-size: 18px;padding-top: 30px;}
+	.page-template-homepage .clshsect1 .clstexts1 h2{font-size: 30px;line-height: 40px;}
+	.clshsect1 .clstexts1 p{font-size: 16px;}
+	.clshsect1 .clstexts1 p span{font-size: 12px; top: -0.3em;}
+	.cls_project_temp {margin-top: 0px;}
+	.clsoulprobox .clsoulproinner .info h4{height: inherit;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 34px;line-height: 48px;}
+	.rotate-text{font-size: 28px;line-height: 28px;}
+	.page-contact-us .cls_connect.ctitle2{font-size: 30px;}
+	.ctitle2{font-size: 24px;}
+	.page-dimensions .ctitle2{font-size: 32px;}
+	.clsoulprobox .clsoulproinner .info p{font-size: 20px;}
+	.ctitle3 {font-size: 36px;line-height: 48px;}
+	.page-awards .logoimg{margin-bottom: 0 !important; padding: 0 !important;}
+	.page-media .logoimg{margin-bottom: 16px !important;}
+	.page-news .logoimg{margin-bottom: 16px !important;}
+	.container {max-width: 720px;}
+	.clshclientsec1 .container,.clscontactconts .container {max-width: 720px;}
+	.clsmpexpertise .container, .clsfeatprojects .container, footer .container {max-width: 720px;}
+    .careersec2 .clshovertabs .clsaccord {padding-bottom: 0px;}
+	.clshsect1 .clscountlists {padding: 0;}
+	/* .clshsect1 .clstexts1 h2 {font-size: 56px;line-height: 78px;} */
+	.clshovertabs .tab-content {display: none;}
+	.clshovertabs .nav-pills {width: 100%;}
+	.clsoulprobox .clsoulproinner .info h4 {padding-right: 25px;}
+	.clsgloblogo {padding-right: 20px; padding-left: 20px;}
+	.clsgloblogo img {max-width: 100%;}
+	.clsfullcontainer {max-width: 100%; padding: 0px;}
+	.clsglobalsay .clstestimonials .slideritem {padding-bottom: 0px;}
+	.clsfullcontainer{padding: 0px 40px;}
+	.clsglobalsay .clssaytexts{bottom: inherit;position: relative;left: inherit;top: inherit;transform: none;-webkit-transform: none;-moz-transform: none;width: 100%;}
+	.clsglobalsay .clsslickarrows {width: 100%; top: 50%; position: absolute;}
+	.page-home .clsrow40 .clsnewscol{margin: 30px 0px 0px;}
+	.clsglobalsay .clsimgcol {width: 100%;}
+	footer .fbox1 p {margin-bottom: 30px;}
+	footer .footerboxs {width: 100% !important;}
+	footer .footerboxs .fmenu ul {width: 100% !important;}
+	footer .footerboxs .fmenu ul:last-child {width: 100% !important; display: flex; flex-wrap: wrap;flex-direction: column;}
+	/* footer .footerboxs .fmenu ul:last-child li {width: 50%;} */
+	footer .footerboxs .fmenu ul:nth-child(2) {padding-left: 0px;}
+	footer .clsfollow h4 {margin-top: 50px;}
+	footer .copyright {text-align: center; justify-content: center !important; flex-direction: column; margin-top: 30px;}
+	footer .copyright .clscplinks {display: inline-block !important; margin-bottom: 5px;}
+	.clscountlists li p{font-size: 16px;}
+	.clscountlists li .clscount1, .count_span{font-size: 40px;}
+	.clscountlists li h4{height: auto;}
+	.clshsect1 .clstexts1 h2{font-size: 44px;line-height: 56px;}
+	/*.clshsect1 .clstexts1{margin: 30px 0px;}*/
+	.clsmpexpertise{padding: 35px 0px;}
+	.clshovertabs .nav-link span{font-size: 22px;}
+	.clsmpexpertise .clsheading{margin-bottom: 30px;}
+	.clshclientsec1 .ctitle2{margin-bottom: 10px;padding-bottom: 14px;}
+
+	/** Project Page **/
+	.clsprojtitle {text-align: center;}
+	.cls_project_temp .ctitle2{font-size: 18px; font-weight: 500;}
+	
+	.clsprojdetails1 .clsheading{margin-top: 35px;}
+	.clsprojtitle .clsprojectname h4, .clsprojtitle .clsprojectname h1{font-size: 20px; line-height: 22px;}
+	.clsprojinfo ul li{font-size: 16px;}
+	.clsprojdetails1 .clsheading p{font-size: 16px;}
+	.clsprocol1 .clsproinner h4{font-size: 14px;line-height: 22px;}
+	.clsprojtitle .clsprojinfo {text-align: center !important;}
+	.clsprocol1 {margin-bottom: 0px;}
+	.clsprojgallery{margin-bottom: 35px;}
+	.clsprojectssect{margin-top: 35px;}
+	.clsprojdetails1 {padding-bottom: 0;}
+	.clsprojdetails2 .clsprojimgcol, .clsprojdetails2 .clsprojtexts {width: 100%;}
+
+	/** Contact Page **/
+	.clscontactconts {padding: 70px 0 0px;}
+	.clscontactconts .clscomcol, .clscontform {width: 100%;}
+	.clscontinfocol .clscontinforow {margin-top: 40px;}
+	.clscontactconts .clscontinfocol {margin-top: 40px;}
+	.clscontactconts .clscontsect1 {flex-direction: column;}
+	.submiybtn {height: 45px !important; line-height: 36px !important; font-size: 16px !important;}
+
+	/** Careers Page **/
+	.careersec2 .clshovertabs, .clsbenefits .clsbefitem, .clsideastabs .clsmrcontents {flex-wrap: wrap;}
+	.careersec2 .clshovertabs .nav-pills {width: 100%; padding-right: 0px !important;}
+	.careersec2 .clshovertabs .nav-link {height: auto; padding: 30px 0px;}
+	.careersec2 .clshovertabs .clsaccordtexts {margin-top: 0;}
+	.careersec2 .clshovertabs .tab-content {display: block; width: 100%; margin-top: 24px;}
+	.clshovertabs .tab-content .clstabimg img {width: 100%;}
+	.clsbenefits .clsbefitem .imgbox, .clsbenefits .clsbefitem .clstextinfo, .clsideastabs .clsmrcontents .clsimgcol, .clsideastabs .clsmrcontents .clstexts {width: 100%;}
+	.clsideastabs .clsmptabs {gap: 15px;}
+	.clsideastabs .clsmrcontents .clstexts {margin: 35px 0;}
+	.clsstmember .ctextinfo h4 {margin-top: 20px;}
+	.clsouroffices .clsmapcol {padding-right: 15px; padding-top: 25px;}
+	.clsofficelocation .clscontinfo {margin-top: 10px;}
+	.clsmembermodal .clsmemberdetails .clsminfo .clsmdetails p {line-height: 26px;}
+	.clsideastabs .clsmptabs .nav-item .nav-link {font-size: 20px;padding: 0 16px 6px;}
+	.single-projects .clsslicknav .slick-arrow{top: 50%;} 
+	.clsslicknav .slick-arrow {top: 30%;}
+	.clsbenefits.clsslicknav .slick-next {right: -20px !important;}
+	.clsinnerbanner .clsitem .cbtn {margin-bottom: 30px;}
+	
+	/** Team Page **/
+	.clsmembermodal .modal-dialog {max-width: 700px;}
+	.clsmembermodal .clsmemberbody .clsmemberdetails {flex-wrap: wrap;}
+	.clsmembermodal .clsmemberdetails .clsmphoto {width: 100%; height: auto;}
+	.clsmembermodal .clsmemberdetails .clsminfo {width: 100%; padding: 15px 0 0;}
+	.clsmembermodal .clsmemberdetails .clsminfo .clsmdetails {margin-top: 18px;}
+
+	/** Glossary Page **/
+	.clsletrconts .clsletrtexts {flex-wrap: wrap;}
+	.clsletrconts .clsletrtextscol {width: 100%;}
+	.clsletrconts .clsletrtextscol .ctextinfo {margin-bottom: 30px;}
+	.clsletrlinks ul li a {font-size: 20px;}
+
+	/** Privacy Page **/
+	.clsprivacytexts {padding-bottom: 60px;}
+	.clsprivacytexts .clsprtexts1 {padding-left: 20px; padding-right: 20px; margin-bottom: 0px;}
+	.clsprivacytexts .ctextinfo h4 {padding-bottom: 20px;}
+	.clsprivacytexts .clsprtexts2 {padding: 0 26px;}
+
+	/** Blogs Page **/
+	.blogsect1 .clsblogtext1 .bimgpart {padding-left: 20px;}
+	.blogsect1 .clsblogtext1 .textinfo1 {padding-right: 20px; margin-top: 20px;}
+	.blogsect1 .clsblogtext1 .textinfo1 .ctextinfo p {padding-top: 20px;}
+
+	/** Dimensions Page **/
+	.clstexttabs .clshovertabs .nav-pills {width: 100%;}
+	.clstexttabs .clshovertabs {flex-wrap: wrap;}
+	.clstexttabs .clshovertabs .tab-content {display: block;width: 100%;margin-top: 24px;}
+	.whymrpdimensions .clsheading .ctitle3 {font-size: 36px;}
+	.whymrpdimensions .clsheading p{font-size: 18px;}
+	.clswhycol {margin-top: 35px;}
+	.whymrpdimensions .clsheading p br {display: none;}
+	.clienttestimonials .clstestimonialscol {max-width: 100%;}
+	.clienttestimonials .clstexts {flex-wrap: wrap;}
+	.clienttestimonials .clsheading {width: 100%; margin-bottom: 40px;}
+	.clienttestimonials .clsheading .clstitle {font-size: 48px; text-align: center;}
+	.clienttestimonials .clsheading .clstitle br {display: none;}
+	.cls_template_1 .ctextinfo p:first-child{padding-top: 16px;}
+	.clsprojectslider .clsprojdetails {height: 300px !important;}
+	.page-dimensions .clsprojectslider .clsprojdetails {height: 100% !important;}
+	.clstexttabs .clshovertabs .nav-link{padding: 20px 0px;}
+	.page-dimensions .clsmpexpertise .clsheading{margin-bottom: 15px;}
+
+	/** About Page **/
+	.aboutsec1 .textinfo2 p {font-size: 30px;}
+	.aboutsec1 .textinfo2 h4 {font-size: 40px;line-height: 53px;}
+	/* .clsourvision, .clsourmission {height: 330px;} */
+	.clsourvision .ctextinfo, .clsourmission .ctextinfo {top: 30px;}
+	.clsmapvideopart {height: 370px;}
+	.clsmilestonetabs .nav-tabs {gap: 8px;}
+	.clsmilestonetabs .nav-tabs .nav-link {padding-bottom: 20px;}
+	.clsmilestonetabs .nav-tabs .nav-link:after {width: 20px; height: 20px;}
+	footer .copyright .clscplinks a{margin-right: 0px;}
+	.aboutsec1 .cextraorbox .extraorinner {padding: 0 30px;}
+	.clsmilestonetabs .nav-tabs .nav-link {font-size: 13px;}
+	footer .footerboxs .fmenu{flex-wrap: nowrap;}
+
+	/* Clients page */
+	.clshclientsec1 .clsclientlogo img {max-width: 100%;padding: 20px;}
+	/** MR SR Page **/
+	.clsmrsrbanner .clsitem .clsvideocol img {height: 100%; object-fit: cover;}
+	.clsmrsrbanner .clsbtns {gap:0 40px;}
+	.clsmrsr-sect1 .clstexts {margin-top: 30px;}
+	.thank-you-container{height: 480px;}
+	.page-contact-us .cls_connect.ctitle2{font-size: 26px;}
+	.clscontactconts .ctitle2{font-size: 20px;}
+	.cls_single_main .post-title{font-size: 28px;}
+	.page-template-servicepage .clsclientsect{padding-left: 40px; padding-right: 40px;}
+.blog-content img{width: 100%;height: 100%;object-fit: cover;object-position: center;}
+
+}
+@media only screen and (max-width: 767px){
+	.page-about-us .clsmilstonbox .ctextinfo{font-size: 14px;}
+	.aboutsec1 .extraorinner h4{padding-bottom: 0px;}
+	.clsvideobg iframe, .clsvideobg video{height: initial;}
+	.cls_mission_bottom{bottom: 40px;}
+	.cls_about_card{padding-top: 10px;}
+	.cls_about_card p{padding-top: 10px; text-align:justify;}
+	.page-careers .ctitle2, .clsourmission .clsheading h4, .cls_vision_heading h4, .clsdesign .clsheading h4{font-size: 20px;}
+	.page-home .ctextinfo h4{font-size: 17px;}
+	.single-projects .clsmaintopsect .clsitem img{padding-top: 0px;}
+	.single-thought-leadership .cls_single_main img{height: auto;object-position: center;}
+	/* .page-template-servicepage .cls_project_inner {padding: 0px;} */
+	.clsprojslider.clsslicknav .slick-next{right: 8px;}
+	.clsprojslider.clsslicknav .slick-prev{left: 8px;}
+	.error-code{font-size: 121px;}
+	.container {width: auto;}
+	.clsglossarydetails .clsglossinfo .ctextinfo h4{margin-top: 10px;}
+	.cpoints li p{padding: 5px 10px 10px !important;}
+	.cpoints li {padding-left: 18px;}
+	.clsmpexpertise .container, .clsfeatprojects .container, footer .container,.clscontactconts .container {width: auto;}
+		.clshclientsec1 .container {width: auto;}
+		.clscontactconts .clscontsect1{flex-wrap: wrap;}
+
+	.ctextinfo h4 {font-size: 17px; line-height: 22px;}
+	.ctitle2 {font-size: 20px;}
+	.page-dimensions .ctitle2 {font-size: 26px;}
+	.ctitle1 {font-size: 48px; line-height: 50px;}
+	.ctitle3 {font-size: 36px; line-height: 48px;}
+	.cbtn {font-size: 11px;height: 34px;line-height: 32px;}
+	.loadMoreBtn {font-size: 11px;height: 34px;line-height: 32px;}
+	header {padding: 17px 20px;}
+	header .logo img {width: 150px;}
+	.careersec2 .clshovertabs .nav-link:last-child{height: auto;}
+	.clsmaintopsect .clsitem {height: auto;}
+	.single-projects .clsmaintopsect .clsitem, .page-mrsr .clsmaintopsect .clsitem, .page-dimensions .clsmaintopsect .clsitem {height: auto !important;}
+	.single-projects .clsprojtitle{margin-top: 0px;}
+	.single-projects .clsmaintopsect {
+    height: 100%;
+    padding-top: 73px;
+}
+	.cls_project_temp{margin-top: 0px;}
+	/* .clsscrollwrap {display: none;} */
+	.clshsect1 {padding-top: 20px;}
+	.ctitle_featured{font-size: 30px;padding-top: 25px;}
+	.page-news .clsglobslider .slick-slide img, .page-awards .clsglobslider .slick-slide img, .page-awardss .clsglobslider .slick-slide img, .page-template-servicepage .clsglobslider .slick-slide img {margin-top: 0px;}
+	.page-about-us .clsglobslider .slick-slide img{margin-top: 0px;}
+	.clsglobslider .slick-slide img{width: 140px !important; padding: 10px !important;margin-bottom: 20px !important;margin-top: 20px;}
+	.page-template-servicepage .clsstmphoto{height: auto;}
+	.clsgloblogo{padding: 0 !important;}
+	.clshsect1 .clscountlists {flex-wrap: wrap;}
+	.clscountlists li {flex: 1 1 50%; margin: 6px 0;}
+	.clscountlists li .clscount1, .clscountlists li h4, .count_span {font-size: 40px;}
+	.clscountlists li p {font-size: 14px;}
+	.clscountlists li .clsltext {font-size: 10px;}
+	.clscountlists li h4 {padding-top: 8px;}
+	.clscountlists li h4 sup {font-size: 20px; top: -9px;}
+	.clshsect1 .clstexts1 {margin: 25px 0 0;}
+	.clshsect1 .clstexts1 h2 {font-size: 30px;line-height: 50px;}
+	.clshsect1 .clstexts1 h2 sup {font-size: 18px;}
+	.clshsect1 .clstexts1 p {font-size: 20px; padding-top: 22px; padding-left: 0px; padding-right: 0px;}
+	.clssoulcol .csoulicon {width: 89px;height: 89px;}
+	.clssoulcol h4 {padding: 12px 0 0;}
+	.clsmpexpertise {padding: 30px 0 35px;}
+	.clsmpexpertise .clsheading {margin-bottom: 20px;}
+	.clshovertabs .nav-link {padding: 13px 10px;}
+	.clshovertabs .nav-link span {font-size: 25px;}
+	.clsclientsect {padding: 35px 0px 45px;}
+	.page-careers .clsclientsect {padding: 35px 0px 35px;}
+	.page-dimensions .clsclientsect {padding: 36px 0px 8px;}
+	.page-home .clientslider, .page-careers .clientslider {margin-top: 30px;}
+	.cls-slide-track, .cls-slide-track2 {width: calc(130px * 32);}
+	.page-home .cls-slide-track, .cls-slide-track2, .page-careers .cls-slide-track, .cls-slide-track2 {width: calc(301px * 16);}
+	.clientslider .clsslide, .clientslider .cls-slide-track2 .clsslide {width: 110px;}
+	.clientslider .clsslide {width: 130px;}
+	.page-dimensions .clientslider .clsslide {width: 130px;}
+	.clientslider .clsslide img {max-width: 100%;}
+	.clshsect4 {height: 150px;}
+	.clshsect4 .textinfo h2 {font-size: 36px;}
+	.clshsect4 .textinfo p {font-size: 20px; padding-top: 5px;}
+	.clshsect5 {padding-top: 0px; padding-bottom: 24px;}
+	.clshsect5 .ctitle2 {padding-top: 31px;}
+	.clsoulprobox .clsoulproinner, .clsoulprobox .clsoulproinner .imgbox {border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+	.clsoulprobox .clsoulproinner {border-bottom-width: 2px;}
+	.clsoulprobox .clsoulproinner .info {padding: 15px 50px 30px 15px;}
+	.clsoulprobox .clsoulproinner .info p {font-size: 12px;}
+	.clsoulprobox .clsoulproinner .info span {font-size: 10px; padding: 4px 0px 15px;}
+	.clsoulprobox .clsoulproinner .info h4 {font-size: 20px;line-height: 26px;}
+	.clsoulprobox .clsoulproinner .info .carrowbtn {right: 15px; bottom: 15px;}
+	.clsoulprobox {margin-top: 22px;}
+	.clsglobalsect {padding: 30px 0 30px;}
+	.page-template-servicepage .clsglobalsect {padding: 30px 0 21px;}
+	.clsglobalsect .clsitemcol {padding: 0 7px;}
+	.clsglobalsect .clsglobrow {margin-top: 14px;margin-bottom: 14px;}
+	.clssearchbar .clssearchcol .custfield{margin-bottom: 0px;}
+	.clsmedialists{padding: 0px 0px 12px;}
+	.page-home .clsgloblogo{height: 75px;}
+	.clsgloblogo {height: 100%; padding: 5px 15px 15px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px;}
+	.clsgloblogo img {width: 100%; height: 100%; object-fit: contain;}
+	.clsgloblogo span {font-size: 17px;}
+	.clsglobalsay .clstestimonials .slideritem {padding-bottom: 0px;display: inline-block !important;}
+	.clsglobalsay .clsimgcol {height: 100%;}
+	/* .clsglobalsay .clssaytexts, .clsglobalsay .clsslickarrows {width: 500px;} */
+	.clsglobalsay .clssaytexts {padding: 22px; height: auto;}
+	.clsglobalsay .clssaytexts{bottom: inherit;position: relative;left: inherit;top: inherit;transform: none;-webkit-transform: none;-moz-transform: none;width: 100%;}
+	/* .clstestimonials{padding: 0px 40px;} */
+	.clsglobalsay .clsslickarrows{bottom: 5%;}
+	.clsglobalsay .clssaytexts .clstexts p {font-size: 16px;}
+	.clsslickarrows button, .clsslicknav .slick-arrow {width: 30px; height: 30px; background-size: 5px auto, contain !important;}
+	/* .clsglobalsay .clsslickarrows {bottom: 139px;} */
+	.clsglobalsay .clsslickarrows .slickprev {margin-left: -16px;}
+	.clsglobalsay .clsslickarrows .slicknext {margin-right: -16px;}
+	.clshsect7 .btnbox .cbtn {width: 112px; margin: 16px 5px 0px;}
+	.clshsect8 {padding: 30px 0px;}
+	.clshsect8 .clsnewslists {display: none;}
+	.mob-clsmedia {display: block;}
+	.clshsect8 .ctitle2 {margin-bottom: 25px;}
+	.clshsect8 .cbtn {padding: 0 15px; margin-top: 30px;}
+	.clsslicknav .slick-prev {left: -12px;}
+	.clsslicknav .slick-next {right: -12px;}
+	.clsnewscol .ctags {font-size: 11px; padding: 3px 12px 4px;}
+	.clsnewscol .carrowbtn {width: 26px; height: 26px;}
+	.clsnewscol .clsnewinfo .clsdate {font-size: 11px; padding-top: 14px;}
+	.clsfaqs {padding: 0px 0px 24px;}
+	.clsfaqs .faqheading {padding: 14px 0px;justify-content: center;}
+	.clsfaqs .faqheading h3 {font-size: 18px;}
+	.clsfaqs .clsfaqbtn {width: 30px; height: 30px; background-size: 9px auto, contain !important;}
+	.clsfaqs .accordion-item {padding: 11px 10px 12px 0px;}
+	.clsfaqs .accordion-button {font-size: 16px;}
+	.clsfaqs .accordion-button::after {font-size: 19px;}
+	.clsfaqs .accordion-body {font-size: 14px;}
+	.single-projects .clsslicknav .slick-arrow {top: 50% !important;}
+	.clsnewslistslider.clsslicknav .slick-arrow {top: 46% !important;}
+	.clsnewslistslider.clsslicknav .slick-prev {left: -16px;}
+	.clsnewslistslider.clsslicknav .slick-next {right: -16px;}
+	.clsslicknav .slick-arrow {top: 35%;}
+	footer {padding-top: 23px;}
+	footer .flogo img {width: 210px;}
+	.clsbacktotop {width: 30px; height: 30px; right: 24px; top: 35px;}
+	footer .fbox1 p {font-size: 14px; margin: 25px 0;}
+	footer .footerboxs {padding-bottom: 20px;}
+	footer .footerboxs h4 {font-size: 20px; line-height: 25px; margin-bottom: 18px;}
+	footer .footerboxs li {margin-bottom: 5px;}
+	footer .footerboxs li a, footer .copyright .clscplinks a, footer .copyright .copytext p {font-size: 12px;}
+	footer .clsfollow h4 {margin-top: 30px;}
+	footer .copyright {margin-top: 0px;}
+	footer .footerboxs .fmenu{flex-wrap: nowrap;}
+
+	.clsmegamenus {top: 63px;}
+	#clsmainmenu {height: calc(100vh - 170px);}
+	#clsmainmenu .clssubmenu {gap:12px 0; left: clamp(130px,10vw, 210px); padding-left: 20px; height: 370px; border-left-width: 1px;}
+	.clsmegamenus .clsmenuwrap {padding: 36px 36px;}
+	#clsmainmenu .clsmenuitem, #clsmainmenu .clssubmenu a, #clsmainmenu .clslbmenu {font-size: 16px;}
+	#clsmainmenu .clsmenuitem .clsmainmenu .clsplusbtn {width: 14px; height: 14px; background-size: contain;}
+	#clsmainmenu .clsmenubottom .clsbtmenus li {line-height: 10px;}
+	#clsmainmenu .clsmenubottom .clsbtmenus li a {font-size: 12px;}
+	#clsmainmenu .clsmenubottom .sociallink a {width: 17px; height: 17px; background-size: 17px auto; margin: 0px 6px;}
+
+	/** Featured Project Page **/
+	.clsfeatprojects, .clshclientsec1 {padding: 80px 0px 26px;}
+	.page-clients .clshclientsec1, .tax-client-category .clshclientsec1 {padding-top: 80px;}
+	.page-news .clsfeatprojects{padding-top: 80px;}
+	.page-awards .clsfeatprojects.mediasec1, .page-news .clsfeatprojects.mediasec1, .page-media .clsfeatprojects.mediasec1, .page-blogs .clsfeatprojects {padding: 74px 0px 26px;}
+	.clsfeatprojects .ctitle2, .ctitle32, .clshclientsec1 .ctitle2 {font-size: 24px;}
+	.clsfeatprojects .ctitle2{margin-bottom: 14px;margin-top: 14px;}
+	.cls_sperator {font-size: 20px;}
+	.page-news .clsfeatprojects .ctitle2{margin-bottom: 5px;}
+	.page-awards .clsfeatprojects .ctitle2, .page-blogs .clsfeatprojects .ctitle2{margin-bottom: 0px;}
+	.clsclientlogos {margin: 24px 0 24px;}
+	.clsclientlogos .clientslider {height: 80px; margin-top: 0px !important; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;}
+	.clsclientlogos .clientslider .clsslide {width: 100px;}
+	.clsclientlogos .cls-slide-track {width: 100%;}
+	.term-residential .clsclientlogos .cls-slide-track, .term-m-interiors .clsclientlogos .cls-slide-track, .term-m-landscape .clsclientlogos .cls-slide-track, .term-m-master-planning .clsclientlogos .cls-slide-track, .term-commercial .clsclientlogos .cls-slide-track, .term-hospitality-m-architecture .clsclientlogos .cls-slide-track, .term-institutional .clsclientlogos .cls-slide-track {width: calc(120px * 40);}
+	.page-featured-project .clientslider .cls-slide-track{width: calc(450px * 26);}
+	.clssearchbar .clsformrow {flex-wrap: wrap; /* padding-bottom: 16px; */}
+	.clssearchbar .clssearchcol {width: 100% !important; margin-bottom: 8px;}
+	.clsprojebox {margin-top: 5px; margin-bottom: 22px;}
+	.clsprojebox .cprojectinner .clsinfo {padding-top: 9px;}
+	.clsprojebox .cprojectinner .clsinfo h4, .clsprojebox .cprojectinner .clsinfo h3 {font-size: 15px;}
+	.clsprojebox .cprojectinner .clsinfo p, .clsprojebox .cprojectinner .clscity {font-size: 11px;}
+	.clsfeatprojects .clsprojectlists .clsheading .ctitle32 {margin-top: 20px; padding-top: 24px;}
+	.clsprojectlists .btnbox {margin-top: 24px;}
+	.clsprojectlists .btnbox .cbtn {padding: 0 40px; height: 40px; line-height: 38px; font-size: 13px;}
+	.single-projects .clsmaintopsect .clsitem img, .page-dimensions .clsmaintopsect .clsitem img{height: auto;}
+
+	.clsprojdetails2 .clsprojimgcol{display: flex; width: 100%;gap: 30px;flex-direction: inherit;}
+	/** Clients Page **/
+	.clshclientsec1 .clsclientbox {width: 33.33%;}
+	.clshclientsec1 .ctitle2 {margin-bottom: 15px;}
+	.page-clients .clshclientsec1 .clsclientlogo, .tax-client-category .clshclientsec1 .clsclientlogo{height: 100%;}
+	.clshclientsec1 .clsclientlogo {/*height: 50px;*/ border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; padding: 0;}
+	.clshclientsec1 .clsclientlogo img {width: 100%; height: 100%; object-fit: contain; padding: 12px;}
+	.clshclientsec1 .container {padding: 0 20px;}
+
+	/** Project Page **/
+	.clssllogo {display: none;}
+	.clsprojectssect .clsrow40, .clsprojdetails1 .clsrow10, .clsprojdetails2 .clsprojimgcol .clsprojimg:last-child {display: none;}
+	.clsprojtitle {padding: 15px 0px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+	.clsprojtitle .clsprojectname h4, .clsprojtitle .clsprojectname h1{font-size: 18px; margin-bottom: 0px;}
+	.clsprojtitle .clsprojtext1 p {font-size: 12px;}
+	.clsprojtitle .clsprojinfo {margin-top: 9px;}
+	.clsprocol1 .clsproinner h4 {margin-bottom: 20px;}
+	.clsprocol1 .clsproinner p {font-size: 15px;}
+	.clsprojdetails1 .clsheading {margin-top: 36px;}
+	.clsprojdetails1 .clsheading p {font-size: 16px; margin-top: 33px; margin-bottom: 28px;}
+	.clsprojsect1 .clsglobalsect {padding-bottom: 1px;}
+	.clsprojsect1 .clsglobalsect .ctitle2 {font-size: 24px;}
+	.clsprojdetails2 .clsprojimgcol .clsprojimg {margin-bottom: 22px;}
+	.clsprojdetails2 .clsprojtexts .ctextinfo p {padding-bottom: 20px;}
+	.clsprojdetails2 .clsprojtexts .clsprojimg img {width: 100%;}
+	.clsprojgallery {margin: 24px 0;}
+	.playbtn {width: 30px;height: 30px; line-height: 30px; font-size: 12px;background-position: 50% 50%;}
+	.playbtn span {background-size: 6px auto; padding-right: 11px;}
+	.clsprojectssect {margin-top: 35px;}
+	.clsprojectssect .ctitle2 {margin-bottom: 24px;}
+	.clsprojectssect .ctitle2{text-align: left;}
+	.clsglossarydetails .clsglossinfo .ctextinfo h4{margin-top: 0px;}
+
+	/** Contact Page **/
+	.clscontactconts {padding: 24px 0 0px;}
+	.clscontform {padding: 15px 20px 23px;}
+	.clscontform .clsheading p {font-size: 12px; margin-bottom: 22px;}
+	.clsformgroup .clsfiledrow {margin-bottom: 22px;}
+	.clsformgroup .clsfiledrow label {font-size: 15px;}
+	.clsformgroup .custfield {font-size: 12px;padding-bottom: 10px;}
+	.clsformgroup .clsbtnrow .submiybtn{margin-top: 0px;padding: 0px 50px;}
+	
+	.clsformgroup textarea.custfield {height: 80px;}
+	.clsformgroup .clsbtnrow .cbtn {padding: 0px 33px;margin-top: 0;}
+	.clsmapinfocol {margin-bottom: 50px;}
+	.clscontinfocol .clscontinforow {margin-top: 28px;}
+	.clscontinfocol .clscontinforow h4 {font-size: 16px;margin-bottom: 5px;}
+	.clscontinfocol .clscontinforow p {font-size: 14px;margin-top: 4px;}
+	.clsmapinfocol .clsofloccol .cbtn {display: none;}
+	.clsofficelocation .clsofloccol {padding: 13px 13px 13px 15px;}
+	.clsofficelocation .clsconno {font-size: 16px; padding-top: 0px;}
+	.clsofficelocation .clsmaplink {width: 24px; height: 24px; background-size: 9px auto; top: initial; right: 9px; bottom: 9px;}
+	/*.clsmapinfocol .clsofficelocation .clsaddres {padding-top: 0px;}*/
+	.clsmapinfocol .clsconno {margin-top: 15px;}
+	/* .submiybtn {height: 50px !important; line-height: 45px !important;} */
+
+	/** Careers Page **/
+	.clsinnerbanner .clsitem .cbtn {padding: 0 24px;}
+	.careersec2 .clsheading {margin-bottom: 10px !important;}
+	.careersec2 .clshovertabs .nav-link {padding: 14px 0px;}
+	.careersec2 .clshovertabs .nav-link span {font-size: 14px;}
+	.careersec2 .clshovertabs .clsaccordbtn {width: 20px; height: 20px; background-size: 8px auto;}
+	.careersec2 .clshovertabs .nav-link.activeaccord .clsaccordbtn:hover{background:url("/sites/morphogenesis/archive/media/bf8bb875d59b-minus-icon2-white.svg"), linear-gradient(90deg, #F37021 0%, #FEA36D 100%); background-repeat: no-repeat;background-size: 8px auto,cover;background-position: 50% 50%;}
+	.careersec2 .clshovertabs .clsaccordbtn:hover {background:url("/sites/morphogenesis/archive/media/9ab88db4825a-plus-icon2-white.svg"), linear-gradient(90deg, #F37021 0%, #FEA36D 100%); background-repeat: no-repeat;background-size: 8px auto,cover; background-position: 50% 50%;}
+	.careersec4 {padding: 20px 0px;}
+	.clsbenefits .clsbefitem .infolist {padding: 20px 10px;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo h5 {font-size: 13px; margin-bottom: 2px;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo p {font-size: 11px; line-height: normal;}
+	.clsbenefits .clsbefitem .infolist .icons {width: 80px; padding-right: 35px;}
+	.clsbenefits .clsbefitem .infolist .icons img {max-width: 100%;}
+	.clsbenefits .clsbefitem .infolist .ctextinfo {width: calc(100% - 80px);}
+	.clsideastabs {padding: 30px 0px;}
+	.clsideastabs .clsmptabs .nav-item .nav-link {font-size: 14px; border-bottom-width: 1px;}
+	.clstabcol, .clsideastabs .clsmrcontents .clsimgcol {margin-top: 10px;}
+	.clsideastabs .clsmptabs{justify-content: space-evenly;}
+
+	.clsideastabs .clsmrcontents .clstexts {margin-top: 10px;margin-bottom: 10px;}
+	.page-careers .clsouroffices{padding-top: 0px;}
+	.clsideastabs .clsmrcontents .clstexts p {font-size: 13px;line-height: 20px;}
+	.clsstoriespeople .clsheading {margin-bottom: 23px;}
+	.clsstoriespeople .row {margin-left: -5px; margin-right: -5px;}
+	.clsstmember {padding: 0 5px; margin: 12px 0px;}
+	.clsstmember .ctextinfo h4 {margin-top: 8px; font-size: 14px; line-height: 16px;}
+	.clsstmember .ctextinfo p {font-size: 12px; line-height: 14px;}
+	.clsstoriespeople .clsbtnrow .cbtn {padding: 0px 30px;}
+	.clsouroffices .clsheading {margin-bottom: 25px;}
+	.clsouroffices .clsofficelocation .clsmaplink {top: 10px; right: 10px; bottom: initial;}
+	.clsouroffices .clsofficelocation .clsaddres {width: 270px;}
+	.clsofficelocation li {margin-bottom: 10px;}
+	.clsofficelocation .clsofloccol p {font-size: 12px; line-height: 14px;}
+	.clsouroffices {padding: 0 0 30px 0px;}
+	.clsopenpositions .clsheading {margin-bottom: 27px;}
+	.clsposcol {margin-bottom: 12px;}
+	.clsposcol .clsposinner {height: 118px; padding: 18px;}
+	.clsposcol .clsposinner .clsposinfo {font-size: 14px;}
+	.clsposcol .clsposinner .clsposinfo a {font-size: 17px;}
+	.clsposcol .clsposinner .clsposinfo h4 {padding: 0px;}
+	.clsopenpositions .clsbtnrow .cbtn {padding: 0 24px; margin-top: 12px;}
+	.clsfaqs95 {padding: 48px 0px;}
+	.clsbenefits .clsbefitem .clstextinfo{padding-left: 0px;}
+	.careersec2 .clshovertabs .clsaccordtexts .ctextinfo p {font-size: 12px; line-height: 16px; padding-right: 17px;}
+	.careersec3 {margin-top: 0px !important;}
+	.clsvideomodal .modal-dialog {max-width: 100%;padding: 0 10px;}
+	.clsvideomodal .modal-content, .clsvideomodal .clsvideobody {border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+	.cls-modal-close {width: 26px;height: 26px;right: -15px;top: -15px;}
+	.thank-you-message p{font-size: 16px;line-height: 22px;}
+
+	/** Team Page **/
+	.clsourpeopsec {padding-bottom: 30px;}
+	.ourpeoplesec {padding: 10px 0px; border-bottom: none;}
+	.page-leadership .ctitle2{font-size: 24px;} 
+	.clsourpeopsec .ctitle32 {font-size: 18px; padding: 10px 0px 0px;}
+	.page-leadership .clsourpeopsec .ctextinfo p{line-height: 18px;}
+	.ourpeopsec1 .ctitle32 {border-top: 1px solid #D9D9D9;}
+	.clsourpeopsec .ourpeopsec1 .clsstmember {padding: 0 20px;}
+	.clsourpeopsec .clsstmphoto {border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+	.clsourpeopsec .clsstmember {margin: 13px 0px 0px;}
+	.page-leadership .ourpeopsec3{padding: 20px 20px 0px;}
+	.clsourpeopsec .clsrow10 {margin-left: -5px; margin-right: -5px;}
+	.clsourpeopsec .clsrow10 .clsstmember {padding-left: 5px;padding-right: 5px;}
+	.page-leadership .clsourpeopsec .ourpeopsec3 .ctextinfo h4 {font-size: 16px;}
+	.page-leadership .clsourpeopsec .ourpeopsec3 .ctextinfo p {font-size: 12px; line-height: 18px;}
+	.clsourpeopsec .ourpeopsec3 .ctextinfo h4 {font-size: 12px;}
+	.clsourpeopsec .ourpeopsec3 .ctextinfo p {font-size: 9px; line-height: 14px;} 
+
+	.clsmembermodal .modal-dialog {max-width: 540px;}
+	.clsmembermodal .clsmemberbody {padding: 10px;}
+	.clsmembermodal .clsmemberdetails .clsminfo .clsmdetails ul {padding: 0;}
+	.clsourpeopsec .ctextinfo h4 {margin-top: 10px !important;}
+
+	/** Glossary Page **/
+	.clsglossary1 {padding-top: 30px;}
+	.clsglossary1 .ctitle2 {font-size: 24px;}
+	.clsglossary1 .clsheading {padding-bottom: 36px;}
+	.clsletrlinks ul {gap: 10px 13px;}
+	.clsletrlinks ul li a {font-size: 20px;}
+	.clsletrlinks {margin: 28px 0 70px;}
+	.clsletrconts .clsletrlabel {width: 96px;}
+	.clsletrconts .clsletrtexts {width: calc(100% - 96px);}
+	.clsletrconts .clsletrlabel span {font-size: 44px;line-height: 56px;}
+	.clsletrconts .clsletrcontrow {padding-bottom: 20px; margin-bottom: 20px;}
+	.clsletrconts .clsletrtextscol .ctextinfo {margin-bottom: 20px;}
+	.clsletrconts .clsletrtextscol .ctextinfo a {font-size: 20px;}
+	.clsletrconts .clsletrtextscol .ctextinfo p {font-size: 14px; line-height: 20px; padding-top: 5px;}
+	.clsletrconts {padding: 0 50px;}
+
+	.clsglossarydetails {padding-top: 30px;}
+	.clsbreadcrumbs ul li, .clsbreadcrumbs ul li a {font-size: 24px;}
+	/* .clsglossarydetails .clsglossinfo .clstextcols1 {margin-top: 20px; padding-top: 30px;} */
+	.clsglossarydetails .clsglossinfo .ctextinfo p {/* padding-bottom: 25px; */ text-align: justify;}
+	.clsglossarydetails .clsglossinfo .ctextinfo h4 {font-size: 17px; line-height: 26px;}
+	.clsglossarydetails .clsglosimg {margin-top: 30px;}
+	.clsglossarydetails .clsimgnote small {font-size: 11px; padding: 6px 0 24px;}
+	.clsglossarydetails .clsimgnote p i {font-size: 14px;}
+	.clsglossarydetails .clstextcols2 {margin-top: 20px; padding-top: 25px; flex-wrap: wrap;}
+	.clsglossarydetails .clstextcols2 .ctextinfo {width: 100%; padding: 10px; margin-bottom: 24px;}
+	.clsglossarydetails .clstextcols2 .ctextinfo:last-child {margin-bottom: 0px;}
+	.clsglossarydetails .clstextcols2 .ctextinfo h4 {margin-bottom:5px;}
+	.clsglossarydetails .clstextcols2 .ctextinfo h5 {font-size: 17px;}
+
+	/** Media Page **/
+	.clsmedialists .clsnewscol {margin: 10px 0px;}
+	.clsmedialists .btnbox {margin-top: 10px;}
+	.clsmedialists .btnbox .cbtn {padding: 0px 40px;height: 45px;line-height: 43px;font-size: 13px;}
+
+	/** Privacy Page **/
+	.clsprivacytexts {padding: 100px 0px 40px;}
+	.clsprivacytexts .clsheading .ctitle2 {font-size: 24px; padding-bottom: 25px;}
+	.clsprivacytexts .ctextinfo h4 {font-size: 17px; padding-top: 20px; padding-bottom: 15px;}
+	.clsprivacytexts .ctextinfo p {text-align: justify; padding-bottom: 20px !important;}
+	.clsprivacytexts .clsprtexts2 {padding-top: 10px; padding-bottom: 5px;}
+	.clsprivacytexts .clsprtexts2 p, .clsprivacytexts .clsprtexts2 .cpoints {padding-left: 15px;}
+
+	/** Blogs Page **/
+	.blogsect1 .clsformrow {margin-bottom: 25px;margin-top: 18px;}
+	.blogsect1 .clsmedialists {border-top: 1px solid #F5F6F8; margin-top: 24px;}
+	.blogsect1 .clsblogtext1 .textinfo1 .ctextinfo h4 {line-height: 30px; font-size: 20px;}
+	.blogsect1 .clsblogtext1 .textinfo1 .cbtn {font-size: 14px; height: 45px;line-height: 43px; padding: 0 50px;}
+	.page-blogs .clsnewscol .mediaimgbox, .page-news .clsnewscol .mediaimgbox, .page-awardss .clsnewscol .mediaimgbox, .page-awards .clsnewscol .mediaimgbox, .tax-media-category .clsnewscol .mediaimgbox{height: 100%;}
+
+	/** 404 Page **/
+	.clserrorpage .clspagefound .clstext1, .clserrorpage .clspagefound .clstext3 {font-size: 20px;}
+	.clserrorpage .clspagefound .clstext2 {margin-top: 27px; margin-bottom: 22px;}
+	.clserrorpage .clspagefound .clstext2 img {max-width: 314px;}
+	.clserrorpage .clspagelink {flex-direction: column; gap:12px;}
+	.clserrorpage .clspagelink li a {font-size: 14px; width: 150px; height: 45px; line-height: 43px;}
+
+	/** Dimensions Page **/
+	.clsmainbanner .clsitem .mtdim-logo img {max-width: 35%;}
+	.page-dimensions .clsinnerbanner .clsitem .cbtn{margin-bottom: 0px;}
+	.clsmainbanner .clsitem .cbtn {margin-top: 30px;}
+	.clstexttabs .ctextinfo h4 {font-size: 20px; color: var(--color-orange);}
+	.clstexttabs .ctextinfo p {font-size: 12px;line-height: 18px; padding-top: 5px;}
+	.clstexttabs .clshovertabs .nav-link {padding: 15px 0 15px 0px;}
+	.whymrpdimensions {padding-bottom: 35px;}
+	.whymrpdimensions .clsheading .ctitle3 {font-size: 24px; font-weight: 500;}
+	.whymrpdimensions .clsheading p {font-size: 16px;line-height: 22px;}
+	.clswhycol {margin-top: 25px;}
+	.clswhycol .clswhyinner .clswhyicon {background-size: 48px auto; background-position: 50% 30%; height: 58px;}
+	.clswhycol .clswhyinner .ctextinfo h5 {font-size: 16px;line-height: 22px; margin: 0px;}
+	.clswhycol .clswhyinner .ctextinfo p {font-size: 10px; line-height: 18px;}
+	.clsprojectsdimen .clsheading {margin-bottom: 30px;}
+	.clsprojectslider .clsprojdetails .clsprojname {left: 15px; bottom: 15px;}
+	.clsprojectslider .clsprojdetails .clsprojname p {font-size: 20px; line-height: 30px;}
+	.clsprojectslider .clsprojdetails .clsprojname span {font-size: 16px;}
+	.clienttestimonials {margin-top: 24px; padding: 25px 0px 50px;}
+	.clienttestimonialslider {padding-bottom: 35px;}
+	.clienttestimonials .clsheading .clstitle {font-size: 20px;}
+	.clienttestimonialslider .clsclientsay .clsclienttexts {margin: 22px 0 20px 0;}
+	.clienttestimonialslider .clsclientsay .quticon {background-size: contain; width: 47px; height: 33px;}
+	.clienttestimonialslider .clsclientsay .clsclienttexts p {font-size: 14px;line-height: 20px;}
+	.clienttestimonialslider .clsclientsay .clsclientinfo h5 {font-size: 14px;} 
+	.clienttestimonialslider .clsclientsay .clsclientinfo span {font-size: 14px; opacity: 0.7;}
+	.clienttestimonialslider .slick-arrow {width: 40px; height: 25px; background-size: 5px auto;}
+	.clienttestimonialslider .slick-next {left: 51px;}
+
+	/** About Page **/
+	.page-about-us .ctitle2{font-size: 20px;}
+	.aboutsec1 .textinfo2 p{font-size: 14px;}
+	.aboutsec1 {padding: 30px 0 30px;}
+	.aboutsec1 .extraorinner h4 {font-size: 36px; line-height: 30px; padding-top: 20px;}
+	.aboutsec1 .extraorinner p {font-size: 15px;line-height: 21px;}
+	.aboutsec1 .cextraorbox .extraorinner {padding: 0px 20px;text-align: center; background-color: transparent;}
+	.aboutsec1 .extraorinner .icons {width: 100%; background-position: 50% 0%; height: 30px; background-size: contain;}
+	.aboutsec1 .extraorinner h4 .clscount1 {line-height: 35px;}
+	.aboutsec1 .textinfo2 p {font-size: 16px; padding: 40px 0px 10px;}
+	.aboutsec1 .textinfo2 p i {font-style: normal; font-weight: 400;}
+	.aboutsec1 .textinfo2 h4 {font-size: 28px;line-height: 40px;}
+	.clsmilestonetabs {margin-top: 25px;}
+	.clsmilestonetabs .nav-tabs .nav-link {font-size: 12px; padding-bottom: 15px;}
+	.clsmilestonetabs .nav-tabs .nav-link:after {width: 14px;height: 14px;}
+	.clsmilstonbox .ctextinfo h4 {font-size: 23px;}
+	.clsmilstonbox .ctextinfo p {font-size: 15px;}
+	.clsmrphmonograph {padding-bottom: 35px;}
+	.clsmrphmonograph .clsmonograph .clsmorphoimg {width: 100%; margin-right: -60px;}
+	.clsmonograph {justify-content: center; flex-wrap: wrap;}
+	.clsmrphmonograph .clsmonograph .clstexts {width: 100%; margin-left: 0px;}
+	.clsmrphmonograph .clsmonograph .clstexts h3 {font-size: 28px;line-height: 40px;}
+	.clsmrphmonograph .clsmonograph .clstexts p {font-size: 16px; margin: 15px 0 20px;}
+	.clsmrphmonograph .clsmonograph .clstexts .cbtn {padding: 0 26px;}
+	.clsbacktotop.is-visible{top: initial;right: 30px;}
+	.clsprojvideo .playbtn{background-position: 50%;}
+	.readmoreBtn{padding: 0px 35px;}
+	.single-projects .clsprojgallery .slick-dots{display: none !important;}
+	.clsmembermodal .clslinkin a{width: 30px;height: 30px;padding: 20px;}
+
+	/** MR SR Page **/
+	.clsmrsr-sect1 {padding: 26px 0px;}
+	.clsmrsr-sect1 .clstexts .ctitle2 {margin-bottom: 0;}
+	.clsmrsr-sect1 .clstexts .ctextinfo p {padding-top: 15px;}
+	.clsfeatawards .clsmedialists {display: none;}
+	.clsmrsrsocial {margin-top: 30px;}
+	.clsfeatawards .clsglobalsect {padding: 20px 0px 24px !important;}
+	.clsmrsrbanner .clsbtns {gap: 0 12px; bottom: 57px;}
+	.page-mrsr .clsmrsrbanner .clsbtns {gap: 0 12px; bottom: 0px;}
+	.clsinnerbanner .clsitem .cbtn {font-size: 13px; height: 44px; line-height: 44px;}
+	.page-dimensions .clsinnerbanner .clsitem .cbtn {font-size: 13px; height: 38px; line-height: 38px;}
+	.clsmrsrsocial {padding: 7px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+	.clsmrsrsocial a {font-size: 14px;line-height: 32px;background-size: 24px auto;padding-left: 30px;}
+	.clsofficelocation .clsofloccol h4{display: block;}
+	.term-m-interiors .clsfeatprojects .clsprojectlists .clsheading .ctitle32{padding-bottom: 8px;padding-top: 8px;margin-top: 0px;}
+	.page-home .clsmaintopsect, .page-about-us .clsmaintopsect, .page-careers .clsmaintopsect, .page-dimensions .clsmaintopsect, .page-contact-us .clsmaintopsect {margin-top: 63px;}
+	.page-home .clsmaintopsect .clsitem, .page-about-us .clsmaintopsect .clsitem, .page-careers .clsmaintopsect .clsitem, .page-contact-us .clsmaintopsect .clsitem{height: auto !important; padding: 25%;}
+
+	.page-home .clsmaintopsect .clsitem .clsvideocol, .page-about-us .clsmaintopsect .clsitem .clsvideocol,.page-careers .clsmaintopsect .clsitem .clsvideocol, .page-contact-us .clsmaintopsect .clsitem .clsvideocol{height: 100%; top: 0px;}
+	.page-about-us .clsmaintopsect .clsscrollwrap, .page-careers .clsmaintopsect .clsscrollwrap{bottom: 10px;}
+	.page-about-us .clsscrollshape, .page-careers .clsscrollshape{width: 16px;height: 30px;}
+	.page-about-us .clsscrolltext, .page-careers .clsscrolltext{font-size: 10px;}
+	#toc-wrapper .clstoc h3{font-size: 18px;}
+	.single-thought-leadership .clsprojectssect{padding-top: 24px;margin-top: 24px;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 28px; line-height: 40px;}
+	.page-template-aboutus .clsgloblogo img{width: 100px !important;}
+	.clsourmission .cls_mission_txt{top:50%;}
+	.page-leadership .clsourpeopsec .ctitle32 {margin-top: 14px;}
+}
+@media only screen and (max-height: 649px){
+	#clsmainmenu {height: auto;}
+}
+@media only screen and (max-width: 575px){
+	.cls_missiontxt{max-width: 100%;}
+	.cls_vision_txt h2, .cls_mission_txt h2, .cls_mission_txt h2{font-size: 26px; line-height: 40px;}
+	.page-about-us .clsglobalsect{padding: 15px 0px 15px;}
+	.page-about-us .clsmilestonetabs{margin-top: 15px;}
+	.cls_mission_bottom p{font-size: 15px !important;}
+	.cls_mission_bottom{bottom: 30px;}
+	.clsourmission .cls_mission_txt{top: 50%;}
+	.cls_about_card p{font-size: 14px;line-height: 24px;}
+	.page-template-homepage .clshsect1 .clstexts1 h2{font-size: 22px;line-height: 24px;}
+	.clsfeatawards .container, .clsfeatawards .container{padding: 0px 20px;}
+	.servicebtn{bottom: 25px;right: 35px;}
+	.servicebtn.is-service{right: 25px;}
+	.page-template-servicepage .clsvideomodal .modal-dialog{max-width: 100%;}
+	.page-template-servicepage .clsvideomodal .clsvideobody{height: auto;}
+	.page-template-servicepage .clsvideomodal .clsvideobody{display: block;}
+	.blog-content h2{font-size: 20px;}
+	.page-news .clsnewscol .clsnewinfo p, .tax-media-category .clsnewscol .clsnewinfo p, .page-awards .clsnewscol .clsnewinfo p{padding-top: 5px;}
+	.page-news .clsnewscol .clsnewinfo .clsdate, .tax-media-category .clsnewscol .clsnewinfo .clsdate, .page-awards .clsnewscol .clsnewinfo .clsdate{padding-top: 5px;}
+	.clsblogcol .clsnewinfo p{padding-top: 5px;}
+	.clsblogcol .clsnewinfo span{margin-top: 5px;}
+	.clsfullcontainer{padding: 0;}
+	.rotate-text{font-size: 22px;line-height: 28px;}
+	.page-home .carrowbtn span{background-size: 6px;background-position: 50% 50%;}
+	.cls_mob_expertise{padding: 0px;}
+	.ctitle1, .ctitle3 {font-size: 28px;}
+	.clsglobalsay .clsslickarrows {width: 100%;padding: 0px 20px;}
+	.clsglobalsay .clssaytexts {padding: 40px 20px;}
+	.clsglobalsay .clssaytexts .clstexts p {line-height: 20px;}
+	.clscountlists li h4{min-height: initial;}
+	.clscountlists li .clscount1, .clscountlists li h4, .count_span{font-size: 30px;}
+	.clshsect1 .clstexts1 h2{font-size: 25px;line-height: 40px;}
+	.page-template-servicepage .clshsect1 .clstexts1 h2{font-size: 28px;}
+	.page-template-servicepage .clshsect1 .clstexts1 p{font-size: 12px;}
+	.clshsect1 .clstexts1 h2 sup, .clshsect1 .clstexts1 p sup{font-size: 12px;}
+	.clshsect1 .clstexts1 p{font-size: 15px;line-height: 24px;}
+	.clshsect1 .clstexts1 p span{top: -0.3em;}
+	.ctitle2{font-size: 24px;}
+	.clshovertabs .nav-link span{font-size: 16px;}
+	.clshovertabs .nav-link .cbtn {font-size: 10px;line-height: 39px;height: 40px;}
+	.clsmpexpertise .clsheading{margin-bottom: 10px;}
+	.clientslider{margin-bottom: 5px;}
+	.clientslider .clsslide{height: auto;}
+	.clientslider .clsslide{width: 110px;}
+	.clshsect5 .ctitle2{font-size: 16px;padding-top: 25px;}
+	.ctitle_featured{font-size: 20px;}
+	
+	.clsgloblogo span {font-size: 12px;}
+	.ctitle2{font-size: 18px;}
+	.clswhycol .clswhyinner .ctextinfo h5{font-size: 12px;line-height: 16px;}
+	.page-dimensions .ctitle2 {font-size: 24px;}
+	.page-home .clsglobalsect{padding: 28px 0px;}
+	.page-dimensions .clstexttabs .ctextinfo h4{font-size: 18px;}
+	.page-dimensions .clsmpexpertise.clstexttabs .ctextinfo p{font-size: 12px;}
+	.ctitle1, .ctitle3{font-size: 28px;}
+	.page-careers .ctitle1, .page-home .ctitle1, .page-contact-us .ctitle1, .page-about-us .ctitle1 {font-size: 26px; line-height: 35px;}
+	.ctitle3{line-height: 36px;}
+	#clsmainmenu .clsmenubottom {bottom: 0px;}
+	.clsnewslistslider.clsslicknav .slick-arrow{top: 40% !important;}
+	.single-projects .clsnewslistslider.clsslicknav .slick-arrow{top: 46% !important;}
+	.page-home .clsfaqs{padding-bottom: 25px;}
+	.clsfaqs{padding: 25px 0px 25px;}
+	.page-leadership .clsfaqs{padding: 0px 0px 0px;}
+	.clsclientlogos{margin: 0px 0px 5px;}
+	.clsstoriespeople{margin-top: 0px;}
+	.showtexts .clssoultextclick p{position: initial;margin-bottom: 10px;}
+	.clssoultextclick{flex-direction: column-reverse;}
+	.clssearchbar .clssearchcol .custfield{height: 24px;font-size: 12px;padding: 2px 20px;}
+	/* Header Styles */
+	.clsglossarydetails .clsglossinfo .ctextinfo h4{margin-top: 10px;}
+	#clsmainmenu .clsmenuitem a {color: #ffffff;font-size: 14px !important;}
+	.clstestimonials{padding: 0px 20px;}
+	.clsbenefits.clsslicknav .slick-next{right: -12px !important;}
+	.clsmpexpertise.careersec2 .container, .careersec4.clsscrollslider .container{padding: 0px 0px;}
+	.clsmedialists {padding: 0px 0px 22px;}
+	/* .container{padding: 0px;} */
+	.playbtn{background-size: contain;width: 24px;height: 24px;}
+	.clsglobalsay .clsslickarrows{bottom: 0px;top: 48%;}
+	.page-leadership .clsourpeopsec .ourpeopsec3 .ctextinfo h4{font-size: 12px;}
+	.page-leadership .clsourpeopsec .ourpeopsec3 .ctextinfo p{font-size: 10px;}
+	.clsstmember .playbtn{width: 20px; height: 20px;background-size: cover;}
+	/** Careers Page **/
+	.clsideastabs .clsmptabs {gap: 15px 26px;}
+	.clsideastabs .container{padding: 0px 0px;}
+	.clsideastabs .clsmptabs .nav-item .nav-link {padding: 6px;}
+	.clsouroffices .clsofficelocation .clsaddres {width: 180px;}
+	.clsmpexpertise, .careersec4, .clsideastabs, .clsstoriespeople, .clsopenpositions {padding: 30px 20px;}
+
+	.clsvideomodal .clsvideobody {height: 170px;}
+	.page-careers .clsvideomodal .clsvideobody {height: 100%;}
+	.clssearchbar .clssearchcol .custfield{margin-top: 0px;}
+	.ph2::-webkit-input-placeholder{font-size:12px !important ;}
+	footer .footerboxs .fmenu ul:nth-child(2){padding-left: 34px;}
+	footer .footerboxs .fmenu ul:last-child li {padding-left: 30px;}
+	.clsfeatprojects .ctitle2, .ctitle32, .clshclientsec1 .ctitle2{font-size: 20px;}
+	section.clsglossary1,
+section.clsglossarydetails {
+  padding-top: 80px;
+}
+.clshclientsec1 .ctitle2{padding-bottom: 10px;margin-bottom: 10px;padding-top: 10px;}
+.thank-you-message p{font-size: 14px;line-height: 20px;}
+
+	/** Team Page **/
+	.clsmembermodal .modal-dialog {max-width: 100%; padding: 30px 15px;}
+
+	/* Glossary Details page */
+	.clsglossinfo {padding: 0 35px;}
+	.clsglossinfo .clstextcols1 p{font-size:12px;line-height: 18px;}
+	.clsglossarydetails .clsglossinfo .ctextinfo h4{font-size: 18px;}
+	.ctextinfo p {font-size: 14px;line-height: 20px;}
+
+	/** Dimensions Page **/
+	.clswhycol {padding: 0px;}
+	.clsglossarydetails .clsglosimg {margin-top: 16px !important;}
+
+	/** About Page **/
+	/* .clsourvision, .clsourmission {height: 270px;} */
+	.clsmapvideopart {height: 310px;}
+	.clsmilestonetabs .nav-tabs .nav-link {font-size: 12px;}
+	.clsmilestonetabs .nav-tabs {gap: 2px;}
+
+	/* Contact Us page */
+	.submiybtn {height: 40px !important; line-height: 36px !important; font-size: 14px !important;}
+
+	/* Clients page */
+	.clshclientsec1 .clsclientlogo img {width: 100%; height: 100%; object-fit: contain; padding: 12px;}
+	.clshclientsec1 .container {padding: 0 36px;}
+	.clsformgroup .clsbtnrow .submiybtn {padding: 0 50px;}
+
+	/* Blogs page */
+	.cls_single_main .post-title {font-size: 20px; margin-bottom: 0px !important;padding-bottom: 20px;}
+	.single-post-page .clsglossinfo {padding: 0 20px;}
+	#toc-wrapper{padding: 28px;}
+	#toc-list li{font-size: 16px;}
+	.clsglossarydetails .clstextcols2{margin-top: 0px;}
+	.clsfeatprojects.blogsect1 .container{padding: 0px 0px;}
+	    .blogsect1 .clsformrow {margin-bottom: 7px;margin-top: 7px;}
+
+	.clshsect7{height: 250px;}
+	.clsbenefits.clsslicknav .slick-prev{left: -12px;}
+	.page-about-us .clsslicknav .slick-arrow{top: 34% !important;}
+	.clsslicknav .slick-arrow{top: 28% !important;}
+	.page-careers .clsslicknav .slick-arrow{top: 28% !important;}
+	.clsopenpositions {margin-bottom: 0px;}
+	.page-about-us .clsfaqs{padding-top: 25px; padding-bottom: 25px;}
+	/* .page-careers .clsfaqs {padding-top: 0px;} */
+	.clsofficelocation .clsofloccol{padding-top: 10px;}
+	.thank-you-container {
+                padding: 40px 30px;
+            }
+
+            .thank-you-title {
+                font-size: 1.75rem;
+            }
+
+            .thank-you-message {
+                font-size: 0.95rem;
+            }
+			.clsourpeopsec .ctextinfo p{
+				font-size: 14px;
+				line-height: 24px;
+			}
+			.clsmembermodal .clsmemberdetails .ctextinfo h4{
+				font-size: 22px;
+			}
+			.clsmembermodal .clsmemberdetails .ctextinfo a{font-size: 14px;}
+			.cls_dimensions .cls-slide-track{
+      height: 120px;
+    width: calc(380px * 30);
+}
+	/** MR SR Page **/
+	.clsmrsrsocial {margin-top: 15px;}
+	.clsglossarydetails .clsglossinfo .clstextcols1{padding-top: 0px;margin-top: 0px;}
+	.clsglossarydetails .clsglossinfo .ctextinfo p{font-size: 14px;line-height: 22px;}
+	.page-mrsr .cls_main_bannner {display: none;}
+	.page-mrsr .cls_mob_bannner {display: block;}
+	.page-template-servicepage .clsclientsect{padding-left: 20px; padding-right: 20px; padding-top: 12px;}
+	.clsmrsr-sect1 .clstexts{margin-top: 15px;}
+	.clsmrsr-sect1 .clstexts .ctextinfo p{padding-top: 8px;}
+	.page-template-servicepage .clsglobalsect{padding-top: 14px;}
+	.page-template-servicepage .clscontactconts .ctitle2{margin-bottom: 12px;margin-top: 12px;}
+	.page-template-servicepage .clsfaqs{padding-top: 0px;}
+	.author-date p, .bread p{ font-size: 14px; }
+
+}
+@media only screen and (max-width: 426px){
+	.page-template-homepage .clshsect1 .clstexts1 h2{font-size: 22px;line-height: 30px;}
+	.clsnewslistslider.clsslicknav .slick-arrow{top: 36% !important;}
+	.single-projects .clsnewslistslider.clsslicknav .slick-arrow{top: 46% !important;}
+	.clsglobalsay .clsslickarrows{bottom: 0px;top: 43%;}
+	    .page-home .clsfaqs{padding-top: 0px;}
+	.cls_vision_txt h2, .cls_mission_txt h2{font-size: 28px;line-height: 32px;}
+	.rotate-text{font-size: 18px;line-height: 22px;}
+	    .clsfeatprojects, .clshclientsec1{
+			padding-top: 76px;
+		}
+	    .page-about-us .clsslicknav .slick-arrow {
+			top: 40%;
+		}
+		.clsfaqs .faqheading h3{width: 80%;}
+		.clsfaqs{justify-content: space-around;}
+	.clsclientsect{padding-bottom: 24px;}
+	.clsoulprobox .clsoulproinner .info h4{font-size: 16px;line-height: 20px;}
+	.clshsect1 .clstexts1 p{font-size: 14px;line-height: 22px;}
+	.clsmaintopsect .clsscrollwrap{bottom: 6px !important;}
+	.clsscrollshape{width: 15px;height: 28px;}
+	.clsscrolltext{font-size: 12px;margin-top: 0px;}
+}
+@media only screen and (max-width: 326px){
+/* .single-projects .clsmaintopsect{height: 13vh;} */
+}

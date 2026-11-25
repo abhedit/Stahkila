@@ -1,0 +1,553 @@
+{
+  "logo": "/sites/morphogenesis/Morphogenesis-Logo_Website-2.svg",
+  "menuLogo": "/sites/morphogenesis/Morphogenesis-Logo_Website1-1.svg",
+  "menuImage": "/sites/morphogenesis/arch.webp",
+  "expertise": [
+    [
+      "m.Architecture",
+      "https://www.morphogenesis.org/m-architecture/",
+      "/sites/morphogenesis/architecture.webp"
+    ],
+    [
+      "m.Interiors",
+      "https://www.morphogenesis.org/m-interiors/",
+      "/sites/morphogenesis/Interiors.webp"
+    ],
+    [
+      "m.Landscape",
+      "https://www.morphogenesis.org/m-landscape/",
+      "/sites/morphogenesis/Landscape-1.webp"
+    ],
+    [
+      "m.Master Planning",
+      "https://www.morphogenesis.org/m-master-planning/",
+      "/sites/morphogenesis/Master-Planning.webp"
+    ]
+  ],
+  "soul": [
+    [
+      "Sustainable",
+      "Our buildings consume upto 75% lesser energy than certified green building benchmarks through passive design and microclimate creation proven through post occupancy evaluation",
+      "/sites/morphogenesis/S-1-1.png"
+    ],
+    [
+      "Optimised",
+      "Resource optimization is achieved through integrated project delivery. We break barriers of established cost benchmarks and reduce consumption through design innovation",
+      "/sites/morphogenesis/O-1-1.png"
+    ],
+    [
+      "Unique",
+      "All our projects are unique. Our design responds to client, climate & context, yet is mindful that the project is globally pertinent",
+      "/sites/morphogenesis/U-1-1.png"
+    ],
+    [
+      "Liveable",
+      "Building smart environments by placing the user at the centre of the design process",
+      "/sites/morphogenesis/L-1-1.png"
+    ]
+  ],
+  "clients": [
+    "/sites/morphogenesis/adani-realty.png",
+    "/sites/morphogenesis/Amazon.png",
+    "/sites/morphogenesis/Ambuja-Neotia-.png",
+    "/sites/morphogenesis/Aparna.png",
+    "/sites/morphogenesis/Ashoka-university.png",
+    "/sites/morphogenesis/birla-estate.png",
+    "/sites/morphogenesis/Brigade.png",
+    "/sites/morphogenesis/British-COuncil.png",
+    "/sites/morphogenesis/British-Shool.png",
+    "/sites/morphogenesis/Capitaland.png",
+    "/sites/morphogenesis/Dakshana.png",
+    "/sites/morphogenesis/Emaar.png",
+    "/sites/morphogenesis/Godrej.png",
+    "/sites/morphogenesis/GT.png",
+    "/sites/morphogenesis/Havells.png",
+    "/sites/morphogenesis/hilton.png",
+    "/sites/morphogenesis/Infosys.png",
+    "/sites/morphogenesis/ITC-Hotels.png",
+    "/sites/morphogenesis/itc.png",
+    "/sites/morphogenesis/JM-Baxi.png",
+    "/sites/morphogenesis/JW-MArriott.png",
+    "/sites/morphogenesis/KRC-.png",
+    "/sites/morphogenesis/Lalit.png",
+    "/sites/morphogenesis/Mahindra.png",
+    "/sites/morphogenesis/Maker-Maxity.png",
+    "/sites/morphogenesis/mapletree.png",
+    "/sites/morphogenesis/max-estates.png",
+    "/sites/morphogenesis/Modern-School.png",
+    "/sites/morphogenesis/RP-SG.png",
+    "/sites/morphogenesis/Rustomjee.png",
+    "/sites/morphogenesis/Sattva.png",
+    "/sites/morphogenesis/SDB.png",
+    "/sites/morphogenesis/TAJ.png",
+    "/sites/morphogenesis/tata.png",
+    "/sites/morphogenesis/tattva.png",
+    "/sites/morphogenesis/the-park.png",
+    "/sites/morphogenesis/Titan.png",
+    "/sites/morphogenesis/Tribeca.png",
+    "/sites/morphogenesis/Trump-Tower.png",
+    "/sites/morphogenesis/Vidyashilp.png",
+    "/sites/morphogenesis/Wipro.png",
+    "/sites/morphogenesis/World-Bank.png",
+    "/sites/morphogenesis/Zydus.png"
+  ],
+  "projects": [
+    [
+      "/sites/morphogenesis/3-1.webp",
+      "The British School",
+      "https://www.morphogenesis.org/projects/the-british-school/",
+      "New Delhi",
+      "India’s First GRIHA Five Star Rated School"
+    ],
+    [
+      "/sites/morphogenesis/0-3.webp",
+      "International Tech Park",
+      "https://www.morphogenesis.org/projects/international-tech-park-itpc/",
+      "Chennai",
+      "India’s First IGBC Platinum-Certified Net-Zero Business Park"
+    ],
+    [
+      "/sites/morphogenesis/3-9.webp",
+      "Wipro Campus",
+      "https://www.morphogenesis.org/projects/wipro-campus/",
+      "Hyderabad",
+      "Habitable Outdoors Replace Indoor Square Footage"
+    ],
+    [
+      "/sites/morphogenesis/dakshana-soul.webp",
+      "Dakshana Valley School",
+      "https://www.morphogenesis.org/projects/dakshana-valley-school/",
+      "Pune",
+      "Generate, Conserve, Recycle: A Closed Loop"
+    ],
+    [
+      "/sites/morphogenesis/soul.webp",
+      "ITC Green Centre",
+      "https://www.morphogenesis.org/projects/itc-green-centre/",
+      "Kolkata",
+      "World’s Largest Urban Facade that Unites Bengali Art and Architecture"
+    ],
+    [
+      "/sites/morphogenesis/Voyage.webp",
+      "The Ark – Voyage to the Stars",
+      "https://www.morphogenesis.org/projects/the-ark-voyage-to-the-stars/",
+      "Pune",
+      "The World’s Largest Residential Rooftop"
+    ],
+    [
+      "/sites/morphogenesis/2i.webp",
+      "Surat Diamond Bourse",
+      "https://www.morphogenesis.org/projects/surat-diamond-bourse/",
+      "Surat",
+      "World’s Largest Office Building with Shortest Commute"
+    ],
+    [
+      "/sites/morphogenesis/Luminare.webp",
+      "Mahindra Luminare",
+      "https://www.morphogenesis.org/projects/mahindra-luminare/",
+      "Gurugram",
+      "A Vertical Neighbourhood of 360 Sky Bungalows"
+    ]
+  ],
+  "press": [
+    [
+      "/sites/morphogenesis/Arcasia_Vietnam.png",
+      "Vietnam"
+    ],
+    [
+      "/sites/morphogenesis/Archdaily_global.png",
+      "Global"
+    ],
+    [
+      "/sites/morphogenesis/Azure_Global.png",
+      "Global"
+    ],
+    [
+      "/sites/morphogenesis/hindu.png",
+      "India"
+    ],
+    [
+      "/sites/morphogenesis/BBC-Future_Global.png",
+      "Global"
+    ],
+    [
+      "/sites/morphogenesis/BrownUniversity_USA.png",
+      "USA"
+    ],
+    [
+      "/sites/morphogenesis/cnbc_india.png",
+      "India"
+    ],
+    [
+      "/sites/morphogenesis/CNN_USA.png",
+      "USA"
+    ],
+    [
+      "/sites/morphogenesis/Forbes_India.png",
+      "India"
+    ],
+    [
+      "/sites/morphogenesis/Good-Design_Chicago.png",
+      "Chicago"
+    ],
+    [
+      "/sites/morphogenesis/Hudco_India.png",
+      "India"
+    ],
+    [
+      "/sites/morphogenesis/Natgeo_India.png",
+      "India"
+    ],
+    [
+      "/sites/morphogenesis/NYT_USA.png",
+      "USA"
+    ],
+    [
+      "/sites/morphogenesis/SIA-GETZ_Singapore.png",
+      "Singapore"
+    ],
+    [
+      "/sites/morphogenesis/Economic-Times.png",
+      "India"
+    ],
+    [
+      "/sites/morphogenesis/Tedx_Global.png",
+      "Global"
+    ],
+    [
+      "/sites/morphogenesis/WAF_Global.png",
+      "Global"
+    ],
+    [
+      "/sites/morphogenesis/elle-decor.png",
+      "India"
+    ],
+    [
+      "/sites/morphogenesis/wa100-2026.png",
+      "Global"
+    ],
+    [
+      "/sites/morphogenesis/GWB.png",
+      "Global"
+    ]
+  ],
+  "quotes": [
+    [
+      "/sites/morphogenesis/Rectangle-1051.png",
+      "The Diamond Bourse will prove to be a game changer for the country’s economy.",
+      "Hon’ble Prime Minister Narendra Modi"
+    ],
+    [
+      "/sites/morphogenesis/gbs-2.webp",
+      "The sprawling complex boasts an incredible 659,611 m² (7.1 million sq. ft.) of floor space, spanning 35 acres of land, surpassing the USA’s Pentagon as the world’s largest office building.",
+      "Guinness Book of World Records"
+    ],
+    [
+      "/sites/morphogenesis/Rectangle-1051-5.png",
+      "Morphogenesis has established itself as not only a leading architecture practice in India, but as an influential research based firm, and a world leader in sustainable design.",
+      "Prof. John Frazer, Architectural Association"
+    ],
+    [
+      "/sites/morphogenesis/Rectangle-1051-6.png",
+      "Morphogenesis has mastered the Architecture of Smart Environments and created worthy buildings that optimize resources",
+      "Dr. Simos Yanas, Director, Sustainable Environment Design, The Architectural Association"
+    ],
+    [
+      "/sites/morphogenesis/pearl.webp",
+      "Morphogenesis works put India's Architecture on the world stage.",
+      "Jury Citation, SIA Getz Award"
+    ]
+  ],
+  "cta": "/sites/morphogenesis/cta-3.webp",
+  "news": [
+    {
+      "image": "/sites/morphogenesis/MR-SR-Inde-Awards.webp",
+      "type": "Award",
+      "title": "Manit & Sonali Rastogi Honored with The 2026 Luminaries at INDE Awards",
+      "year": "2026",
+      "url": "https://www.indeawards.com/2026-winners/"
+    },
+    {
+      "image": "/sites/morphogenesis/ITC-Green-Good.webp",
+      "type": "PUBLICATION",
+      "title": "ITC Green Centre Wins Green Architecture Award at The Chicago Athenaeum",
+      "year": "2026",
+      "url": ""
+    },
+    {
+      "image": "/sites/morphogenesis/Bhutan.webp",
+      "type": "Update",
+      "title": "Government Office Complex, Bhutan Project awarded to Morphogenesis",
+      "year": "2026",
+      "url": ""
+    },
+    {
+      "image": "/sites/morphogenesis/MR-HT-1.webp",
+      "type": "PUBLICATION",
+      "title": "Manit Rastogi on India’s Underground Urban Crisis",
+      "year": "2026",
+      "url": "https://www.hindustantimes.com/india-news/indias-urban-blind-spot-an-ungoverned-city-beneath-101768157338402.html"
+    },
+    {
+      "image": "/sites/morphogenesis/Sonali-Rastogi-Judge-for-Dezeen-Awards-2025.webp",
+      "type": "PUBLICATION",
+      "title": "Sonali Rastogi – Judge for Dezeen Awards 2025",
+      "year": "2025",
+      "url": "https://www.dezeen.com/awards/2025/judges/sonali-rastogi/"
+    }
+  ],
+  "footerBadges": [
+    "/sites/morphogenesis/WAF.svg",
+    "/sites/morphogenesis/WA100.svg",
+    "/sites/morphogenesis/SIA-GETZ.svg",
+    "/sites/morphogenesis/AD100-3.svg"
+  ],
+  "footerLinks": [
+    [
+      "m.Architecture",
+      "https://www.morphogenesis.org/m-architecture/"
+    ],
+    [
+      "m.Interiors",
+      "https://www.morphogenesis.org/m-interiors/"
+    ],
+    [
+      "m.Landscape",
+      "https://www.morphogenesis.org/m-landscape/"
+    ],
+    [
+      "m.Master Planning",
+      "https://www.morphogenesis.org/m-master-planning/"
+    ],
+    [
+      "m.Homes",
+      "https://www.morphogenesis.org/m-interiors/homes/"
+    ],
+    [
+      "m.Dimensions",
+      "https://www.morphogenesis.org/dimensions/"
+    ],
+    [
+      "About Us",
+      "https://www.morphogenesis.org/about-us/"
+    ],
+    [
+      "Clients",
+      "https://www.morphogenesis.org/clients/"
+    ],
+    [
+      "Leadership",
+      "https://www.morphogenesis.org/leadership/"
+    ],
+    [
+      "News",
+      "https://www.morphogenesis.org/news/"
+    ],
+    [
+      "Awards",
+      "https://www.morphogenesis.org/awards/"
+    ],
+    [
+      "Thought Leadership",
+      "https://www.morphogenesis.org/thought-leadership/"
+    ],
+    [
+      "Careers",
+      "https://www.morphogenesis.org/careers/"
+    ],
+    [
+      "Contact Us",
+      "https://www.morphogenesis.org/contact-us/"
+    ],
+    [
+      "Privacy Policy",
+      "https://www.morphogenesis.org/privacy-policy/"
+    ]
+  ],
+  "footerIntro": "Founded in 1996, Morphogenesis is a design and consultancy practice with studios across India, delivering integrated architecture, interiors, landscape, and master planning solutions through its S.O.U.L philosophy.",
+  "menu": [
+    {
+      "title": "m.Architecture",
+      "href": "#",
+      "links": [
+        [
+          "All",
+          "https://www.morphogenesis.org/m-architecture/"
+        ],
+        [
+          "Residential",
+          "https://www.morphogenesis.org/m-architecture/residential/"
+        ],
+        [
+          "Commercial",
+          "https://www.morphogenesis.org/m-architecture/commercial/"
+        ],
+        [
+          "Office",
+          "https://www.morphogenesis.org/m-architecture/office/"
+        ],
+        [
+          "Hospitality",
+          "https://www.morphogenesis.org/m-architecture/hospitality-m-architecture/"
+        ],
+        [
+          "Institutional",
+          "https://www.morphogenesis.org/m-architecture/institutional/"
+        ],
+        [
+          "House",
+          "https://www.morphogenesis.org/m-architecture/house/"
+        ],
+        [
+          "Retail",
+          "https://www.morphogenesis.org/m-architecture/retail/"
+        ]
+      ],
+      "image": "/sites/morphogenesis/arch.webp"
+    },
+    {
+      "title": "m.Interiors",
+      "href": "#",
+      "links": [
+        [
+          "All",
+          "https://www.morphogenesis.org/m-interiors/"
+        ],
+        [
+          "Workplace",
+          "https://www.morphogenesis.org/m-interiors/workplace/"
+        ],
+        [
+          "Hospitality",
+          "https://www.morphogenesis.org/m-interiors/hospitality/"
+        ]
+      ],
+      "image": "/sites/morphogenesis/int.webp"
+    },
+    {
+      "title": "m.Landscape",
+      "href": "https://www.morphogenesis.org/m-landscape/",
+      "links": [],
+      "image": "/sites/morphogenesis/lands.webp"
+    },
+    {
+      "title": "m.Master Planning",
+      "href": "#",
+      "links": [
+        [
+          "All",
+          "https://www.morphogenesis.org/m-master-planning/"
+        ],
+        [
+          "Office",
+          "https://www.morphogenesis.org/m-master-planning/#m-master-planning-office"
+        ],
+        [
+          "Residential",
+          "https://www.morphogenesis.org/m-master-planning/#m-master-planning-residential"
+        ],
+        [
+          "Institution",
+          "https://www.morphogenesis.org/m-master-planning/#m-master-planning-institution"
+        ],
+        [
+          "Mixed Use",
+          "https://www.morphogenesis.org/m-master-planning/#m-master-planning-mixed-use"
+        ]
+      ],
+      "image": "/sites/morphogenesis/Masterplanning.webp"
+    },
+    {
+      "title": "m.Homes",
+      "href": "#",
+      "links": [
+        [
+          "Architecture",
+          "https://www.morphogenesis.org/m-architecture/house/"
+        ],
+        [
+          "Interiors",
+          "https://www.morphogenesis.org/m-interiors/homes/"
+        ]
+      ],
+      "image": "/sites/morphogenesis/homes.webp"
+    },
+    {
+      "title": "Media",
+      "href": "#",
+      "links": [
+        [
+          "Awards",
+          "https://www.morphogenesis.org/awards/"
+        ],
+        [
+          "News",
+          "https://www.morphogenesis.org/news/"
+        ],
+        [
+          "Thought Leadership",
+          "https://www.morphogenesis.org/thought-leadership/"
+        ]
+      ],
+      "image": "/sites/morphogenesis/media.webp"
+    },
+    {
+      "title": "About",
+      "href": "#",
+      "links": [
+        [
+          "Morphogenesis",
+          "https://www.morphogenesis.org/about-us/"
+        ],
+        [
+          "Clients",
+          "https://www.morphogenesis.org/clients/"
+        ],
+        [
+          "Leadership",
+          "https://www.morphogenesis.org/leadership/"
+        ]
+      ],
+      "image": "/sites/morphogenesis/morpho41.webp"
+    },
+    {
+      "title": "Careers",
+      "href": "https://www.morphogenesis.org/careers/",
+      "links": [],
+      "image": "/sites/morphogenesis/about-1.webp"
+    },
+    {
+      "title": "Contact Us",
+      "href": "https://www.morphogenesis.org/contact-us/",
+      "links": [],
+      "image": "/sites/morphogenesis/contact-us.webp"
+    }
+  ],
+  "socials": [
+    [
+      "Instagram",
+      "https://www.instagram.com/morphogenesis.official",
+      "/sites/morphogenesis/instagram.svg"
+    ],
+    [
+      "Facebook",
+      "https://www.facebook.com/morphogenesis.official/",
+      "/sites/morphogenesis/fb.svg"
+    ],
+    [
+      "LinkedIn",
+      "https://www.linkedin.com/company/morphogenesis/",
+      "/sites/morphogenesis/linkedin.svg"
+    ],
+    [
+      "X",
+      "https://x.com/_morphogenesis",
+      "/sites/morphogenesis/tw.svg"
+    ],
+    [
+      "YouTube",
+      "https://www.youtube.com/@MorphogenesisOrg",
+      "/sites/morphogenesis/yt.svg"
+    ]
+  ]
+}

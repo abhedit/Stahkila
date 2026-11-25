@@ -1,0 +1,9 @@
+@font-face { font-family: Poppins; src: url("../poppins-300.woff2") format("woff2"); font-weight: 300; font-display: swap; }
+@font-face { font-family: Poppins; src: url("../poppins-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: Poppins; src: url("../poppins-500.woff2") format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: Poppins; src: url("../poppins-600.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: Poppins; src: url("poppins-700.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+#archive-main { display: contents; }
+[hidden] { display: none !important; }
+.archive-form-status { margin-top: 10px; }
+footer .archive-form-status { color: white; }

@@ -1,9 +1,11 @@
+import type { Metadata } from "next";
+import MorphogenesisHome from "@/components/sites/morphogenesis/home";
+
+export const metadata: Metadata = {
+  title: "Interior & Architecture Design Consultancy Firm | Morphogenesis",
+  description: "Morphogenesis is an integrated architecture, interiors, landscape, and master planning practice.",
+};
+
 export default function Home() {
-  return (
-    <main className="flex min-h-screen items-center justify-center">
-      <p className="text-muted-foreground">
-        Clone target not yet built. Run <code className="font-mono text-foreground">/clone-website</code> to start.
-      </p>
-    </main>
-  );
+  return <MorphogenesisHome />;
 }
